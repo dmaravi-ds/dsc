@@ -1,0 +1,7 @@
+agent-framework-azure-ai==1.0.0rc6
+agent-framework-foundry==1.15.0
+agent-framework-orchestrations==1.4.0
+python-dotenv==1.2.4
+azure-search-documents==12.1.0b2
+azure-ai-documentintelligence==1.0.2
+azure-ai-contentsafety==1.0.0
