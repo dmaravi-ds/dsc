@@ -1,0 +1,112 @@
+[
+  {
+    "id": "nova-guia-01",
+    "titulo": "Guía de atención de tarjetas - Encabezado del documento",
+    "contenido": "<!-- PageHeader=\"BANCO NOVA ANDINO · GUI-ATC-TC-007 · Versión 1.0 · Uso interno\" -->",
+    "categoria": "Procedimientos de atención",
+    "area": "Experiencia del Cliente - Tarjetas",
+    "fecha_publicacion": "2026-11-10T00:00:00Z",
+    "vigente": true,
+    "url_documento": "https://novabanco.example/docs/GUI-ATC-TC-007.pdf"
+  },
+  {
+    "id": "nova-guia-02",
+    "titulo": "Guía de atención de tarjetas - Guía de procedimientos de atención de tarjetas de crédito Banco Nova Andino · Copiloto Cognitivo de Asistencia Bancaria",
+    "contenido": "# Guía de procedimientos de atención de tarjetas de crédito Banco Nova Andino · Copiloto Cognitivo de Asistencia Bancaria\n\n\n<table>\n<tr>\n<th>Campo</th>\n<th>Detalle</th>\n</tr>\n<tr>\n<td>Código / vigencia</td>\n<td>GUI-ATC-TC-007 · vigente desde 01/09/2026</td>\n</tr>\n<tr>\n<td>Área responsable</td>\n<td>Gerencia de Experiencia del Cliente - Tarjetas</td>\n</tr>\n<tr>\n<td>Aplica a</td>\n<td>Especialistas de agencia, banca telefónica y Copiloto Cognitivo</td>\n</tr>\n<tr>\n<td>Productos</td>\n<td>Nova Clásica, Nova Oro, Nova Platinum y Nova Eco</td>\n</tr>\n</table>\n\n\nDocumento ficticio creado con IA para fines educativos. El banco, sus procedimientos, plazos, costos y teléfonos no corresponden a una entidad\nreal.",
+    "categoria": "Procedimientos de atención",
+    "area": "Experiencia del Cliente - Tarjetas",
+    "fecha_publicacion": "2026-11-10T00:00:00Z",
+    "vigente": true,
+    "url_documento": "https://novabanco.example/docs/GUI-ATC-TC-007.pdf"
+  },
+  {
+    "id": "nova-guia-03",
+    "titulo": "Guía de atención de tarjetas - 1. Objetivo y alcance",
+    "contenido": "## 1. Objetivo y alcance\n\nEsta guía estandariza la atención de consultas y solicitudes sobre tarjetas de crédito. Define los requisitos de solicitud,\nel flujo de evaluación, los plazos de bloqueo y reposición, la atención de reclamos y los límites del Copiloto Cognitivo.\nEl Copiloto responde únicamente con información de esta guía y de la ficha de productos vigente; no aprueba\ncréditos, no modifica líneas y no solicita datos sensibles del cliente.",
+    "categoria": "Procedimientos de atención",
+    "area": "Experiencia del Cliente - Tarjetas",
+    "fecha_publicacion": "2026-11-10T00:00:00Z",
+    "vigente": true,
+    "url_documento": "https://novabanco.example/docs/GUI-ATC-TC-007.pdf"
+  },
+  {
+    "id": "nova-guia-04",
+    "titulo": "Guía de atención de tarjetas - 2. Requisitos para solicitar una tarjeta",
+    "contenido": "## 2. Requisitos para solicitar una tarjeta\n\nTodos los solicitantes deben ser mayores de 18 años, contar con DNI o carné de extranjería vigente y no registrar\ndeudas castigadas en los últimos 24 meses. Los requisitos adicionales dependen de la tarjeta:\n\n\n<table>\n<tr>\n<th>Tarjeta</th>\n<th>Ingreso mínimo</th>\n<th>Antigüedad laboral</th>\n<th>Sustento de ingresos</th>\n<th>Calificación crediticia</th>\n</tr>\n<tr>\n<td>Nova Clásica</td>\n<td>S/ 1,800</td>\n<td>6 meses</td>\n<td>Última boleta o recibo por honorarios</td>\n<td>Normal o CPP</td>\n</tr>\n<tr>\n<td>Nova Oro</td>\n<td>S/ 3,500</td>\n<td>12 meses</td>\n<td>Últimas 2 boletas</td>\n<td>Normal</td>\n</tr>\n<tr>\n<td>Nova Platinum</td>\n<td>S/ 7,500</td>\n<td>24 meses</td>\n<td>Últimas 3 boletas o declaración anual</td>\n<td>Normal (12 meses)</td>\n</tr>\n<tr>\n<td>Nova Eco</td>\n<td>S/ 2,800</td>\n<td>6 meses</td>\n<td>Última boleta o recibo por honorarios</td>\n<td>Normal o CPP</td>\n</tr>\n</table>\n\n\nTrabajadores independientes: se reemplaza la boleta por los últimos 6 recibos por honorarios o la declaración anual\nde renta. El ingreso considerado es el promedio mensual neto.",
+    "categoria": "Procedimientos de atención",
+    "area": "Experiencia del Cliente - Tarjetas",
+    "fecha_publicacion": "2026-11-10T00:00:00Z",
+    "vigente": true,
+    "url_documento": "https://novabanco.example/docs/GUI-ATC-TC-007.pdf"
+  },
+  {
+    "id": "nova-guia-05",
+    "titulo": "Guía de atención de tarjetas - 3. Flujo de evaluación de la solicitud",
+    "contenido": "## 3. Flujo de evaluación de la solicitud\n\n\n<table>\n<tr>\n<th>Etapa</th>\n<th>Responsable</th>\n<th>Plazo máximo</th>\n<th>Resultado</th>\n</tr>\n<tr>\n<td>1. Registro de solicitud</td>\n<td>Cliente (App Nova o agencia)</td>\n<td>Inmediato</td>\n<td>Número de solicitud SOL-AAAA-NNNNN</td>\n</tr>\n<tr>\n<td>2. Validación de identidad</td>\n<td>Sistema biométrico</td>\n<td>10 minutos</td>\n<td>Identidad validada o rechazo</td>\n</tr>\n<tr>\n<td>3. Evaluación crediticia</td>\n<td>Motor de riesgos</td>\n<td>24 horas hábiles</td>\n<td>Línea aprobada, contraoferta o rechazo</td>\n</tr>\n<tr>\n<td>4. Firma de contrato digital</td>\n<td>Cliente</td>\n<td>7 días calendario</td>\n<td>Contrato firmado</td>\n</tr>\n<tr>\n<td>5. Entrega de tarjeta física</td>\n<td>Courier Nova</td>\n<td>5 días hábiles (Lima) / 10 (provincias)</td>\n<td>Tarjeta entregada</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"Documento 100% sintético para el Laboratorio 1 · Data Scientist Cognitive\" -->\n<!-- PageNumber=\"Página 1 de 3\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"BANCO NOVA ANDINO · GUI-ATC-TC-007 · Versión 1.0 · Uso interno\" -->",
+    "categoria": "Procedimientos de atención",
+    "area": "Experiencia del Cliente - Tarjetas",
+    "fecha_publicacion": "2026-11-10T00:00:00Z",
+    "vigente": true,
+    "url_documento": "https://novabanco.example/docs/GUI-ATC-TC-007.pdf"
+  },
+  {
+    "id": "nova-guia-06",
+    "titulo": "Guía de atención de tarjetas - 4. Bloqueo y reposición de tarjeta",
+    "contenido": "## 4. Bloqueo y reposición de tarjeta\n\nAnte pérdida, robo o sospecha de fraude, la tarjeta debe bloquearse de inmediato. El bloqueo es gratuito y definitivo;\nla reposición genera una nueva tarjeta con otro número.\n\n\n<table>\n<tr>\n<th>Canal</th>\n<th>Disponibilidad</th>\n<th>Tiempo de bloqueo</th>\n<th>Costo de reposición</th>\n</tr>\n<tr>\n<td>App Nova</td>\n<td>24/7</td>\n<td>Inmediato</td>\n<td>S/ 15 (Clásica y Eco) / sin costo (Oro y Platinum)</td>\n</tr>\n<tr>\n<td>Central (01) 555-0199</td>\n<td>24/7</td>\n<td>Menos de 5 minutos</td>\n<td>S/ 15 (Clásica y Eco) / sin costo (Oro y Platinum)</td>\n</tr>\n<tr>\n<td>Agencia demostrativa</td>\n<td>Horario de atención</td>\n<td>Inmediato</td>\n<td>S/ 15 (Clásica y Eco) / sin costo (Oro y Platinum)</td>\n</tr>\n</table>\n\n\nLos consumos no reconocidos realizados hasta 48 horas antes del bloqueo pueden reclamarse según la sección 5.",
+    "categoria": "Procedimientos de atención",
+    "area": "Experiencia del Cliente - Tarjetas",
+    "fecha_publicacion": "2026-11-10T00:00:00Z",
+    "vigente": true,
+    "url_documento": "https://novabanco.example/docs/GUI-ATC-TC-007.pdf"
+  },
+  {
+    "id": "nova-guia-07",
+    "titulo": "Guía de atención de tarjetas - 5. Reclamos y desconocimiento de consumos",
+    "contenido": "## 5. Reclamos y desconocimiento de consumos\n\n\n<table>\n<tr>\n<th>Tipo de caso</th>\n<th>Plazo para presentarlo</th>\n<th>Plazo de respuesta</th>\n<th>Medida temporal</th>\n</tr>\n<tr>\n<td>Consumo no reconocido</td>\n<td>Hasta 60 días desde el estado de cuenta</td>\n<td>15 días hábiles</td>\n<td>Abono provisional si el monto es menor a S/ 2,000</td>\n</tr>\n<tr>\n<td>Cobro indebido de membresía</td>\n<td>Hasta 90 días desde el cargo</td>\n<td>10 días hábiles</td>\n<td>Suspensión del cobro mientras se evalúa</td>\n</tr>\n<tr>\n<td>Error en acumulación de Puntos Nova</td>\n<td>Hasta 30 días desde la compra</td>\n<td>7 días hábiles</td>\n<td>Ninguna</td>\n</tr>\n<tr>\n<td>Cargo duplicado</td>\n<td>Hasta 60 días desde el estado de cuenta</td>\n<td>5 días hábiles</td>\n<td>Extorno automático si se confirma</td>\n</tr>\n</table>\n\n\nTodo reclamo genera un código REC-AAAA-NNNNN. El Copiloto puede informar el estado del reclamo, pero no\npuede resolverlo ni ofrecer devoluciones fuera de los criterios de esta tabla.",
+    "categoria": "Procedimientos de atención",
+    "area": "Experiencia del Cliente - Tarjetas",
+    "fecha_publicacion": "2026-11-10T00:00:00Z",
+    "vigente": true,
+    "url_documento": "https://novabanco.example/docs/GUI-ATC-TC-007.pdf"
+  },
+  {
+    "id": "nova-guia-08",
+    "titulo": "Guía de atención de tarjetas - 6. Límites del Copiloto y reglas de escalamiento",
+    "contenido": "## 6. Límites del Copiloto y reglas de escalamiento\n\nEl Copiloto apoya al especialista con información de producto y procedimientos. Las siguientes situaciones deben\nescalarse a una persona:\n\n\n<table>\n<tr>\n<th>Situación detectada</th>\n<th>Acción del Copiloto</th>\n<th>Escalar a</th>\n</tr>\n<tr>\n<td>Solicitud de CVV, clave, token u OTP</td>\n<td>Rechazar y recordar que el banco nunca los solicita</td>\n<td>Seguridad de la Información</td>\n</tr>\n<tr>\n<td>Pedido de aprobar o aumentar línea sin evaluación</td>\n<td>Rechazar y explicar el flujo de la sección 3</td>\n<td>Supervisor de agencia</td>\n</tr>\n<tr>\n<td>Consulta sobre datos de otro cliente</td>\n<td>Rechazar por secreto bancario</td>\n<td>Cumplimiento</td>\n</tr>\n<tr>\n<td>Amenaza contra colaboradores o agencias</td>\n<td>No responder al contenido y registrar el evento</td>\n<td>Seguridad física</td>\n</tr>\n<tr>\n<td>Cliente con sobreendeudamiento o expresión de autolesión</td>\n<td>Responder con empatía y ofrecer apoyo humano</td>\n<td>Equipo de Bienestar Financiero</td>\n</tr>\n<tr>\n<td>Indicios de fraccionamiento de depósitos</td>\n<td>No asesorar y registrar el caso</td>\n<td>Oficial de Cumplimiento (LA/FT)</td>\n</tr>\n</table>\n\n\n<!-- PageFooter=\"Documento 100% sintético para el Laboratorio 1 · Data Scientist Cognitive\" -->\n<!-- PageNumber=\"Página 2 de 3\" -->\n<!-- PageBreak -->\n\n<!-- PageHeader=\"BANCO NOVA ANDINO · GUI-ATC-TC-007 · Versión 1.0 · Uso interno\" -->",
+    "categoria": "Procedimientos de atención",
+    "area": "Experiencia del Cliente - Tarjetas",
+    "fecha_publicacion": "2026-11-10T00:00:00Z",
+    "vigente": true,
+    "url_documento": "https://novabanco.example/docs/GUI-ATC-TC-007.pdf"
+  },
+  {
+    "id": "nova-guia-09",
+    "titulo": "Guía de atención de tarjetas - 7. Refinanciamiento para clientes con dificultades de pago",
+    "contenido": "## 7. Refinanciamiento para clientes con dificultades de pago\n\nLos clientes con atrasos de hasta 60 días pueden solicitar un refinanciamiento de su deuda de tarjeta. El Copiloto\ninforma las condiciones; la aprobación corresponde al área de Cobranzas.\n\n\n<table>\n<tr>\n<th>Condición</th>\n<th>Detalle</th>\n</tr>\n<tr>\n<td>Días de atraso permitidos</td>\n<td>Hasta 60 días</td>\n</tr>\n<tr>\n<td>Plazo de refinanciamiento</td>\n<td>De 6 a 36 cuotas mensuales</td>\n</tr>\n<tr>\n<td>Tasa referencial</td>\n<td>TCEA de la tarjeta menos 10 puntos porcentuales</td>\n</tr>\n<tr>\n<td>Período de gracia</td>\n<td>Hasta 30 días antes de la primera cuota</td>\n</tr>\n<tr>\n<td>Efecto en la tarjeta</td>\n<td>La línea se suspende hasta pagar el 50% de las cuotas</td>\n</tr>\n</table>",
+    "categoria": "Procedimientos de atención",
+    "area": "Experiencia del Cliente - Tarjetas",
+    "fecha_publicacion": "2026-11-10T00:00:00Z",
+    "vigente": true,
+    "url_documento": "https://novabanco.example/docs/GUI-ATC-TC-007.pdf"
+  },
+  {
+    "id": "nova-guia-10",
+    "titulo": "Guía de atención de tarjetas - 8. Ejemplo resuelto (fecha de atención: 05/11/2026)",
+    "contenido": "## 8. Ejemplo resuelto (fecha de atención: 05/11/2026)\n\nConsulta del especialista: \"Un cliente dependiente gana S/ 4,200 mensuales, tiene 10 meses en su trabajo y\ncalificación Normal. Quiere la Nova Oro. ¿ Califica?\"\n\nRespuesta esperada del Copiloto: El cliente cumple el ingreso mínimo de la Nova Oro (S/ 3,500), pero no la\nantigüedad laboral requerida (12 meses). Puede volver a solicitarla en 2 meses o evaluar la Nova Eco, que exige S/\n2,800 de ingreso y 6 meses de antigüedad. La línea final depende de la evaluación crediticia (sección 3, etapa 3) y no\npuede garantizarse.\n\n\n<table>\n<tr>\n<th>Criterio</th>\n<th>Nova Oro</th>\n<th>Cliente</th>\n<th>¿Cumple?</th>\n</tr>\n<tr>\n<td>Ingreso mínimo</td>\n<td>S/ 3,500</td>\n<td>S/ 4,200</td>\n<td>Sí</td>\n</tr>\n<tr>\n<td>Antigüedad laboral</td>\n<td>12 meses</td>\n<td>10 meses</td>\n<td>No</td>\n</tr>\n<tr>\n<td>Calificación</td>\n<td>Normal</td>\n<td>Normal</td>\n<td>Sí</td>\n</tr>\n</table>",
+    "categoria": "Procedimientos de atención",
+    "area": "Experiencia del Cliente - Tarjetas",
+    "fecha_publicacion": "2026-11-10T00:00:00Z",
+    "vigente": true,
+    "url_documento": "https://novabanco.example/docs/GUI-ATC-TC-007.pdf"
+  },
+  {
+    "id": "nova-guia-11",
+    "titulo": "Guía de atención de tarjetas - 9. Canales de contacto para el cliente",
+    "contenido": "## 9. Canales de contacto para el cliente\n\nApp Nova y banca web (autoservicio 24/7), central telefónica (01) 555-0199 (24 horas), correo\nayuda@novabanco.example y 18 agencias demostrativas (lunes a viernes de 09:00 a 18:00 y sábados de 09:00 a\n13:00).\n\n<!-- PageFooter=\"Documento 100% sintético para el Laboratorio 1 · Data Scientist Cognitive\" -->\n<!-- PageNumber=\"Página 3 de 3\" -->",
+    "categoria": "Procedimientos de atención",
+    "area": "Experiencia del Cliente - Tarjetas",
+    "fecha_publicacion": "2026-11-10T00:00:00Z",
+    "vigente": true,
+    "url_documento": "https://novabanco.example/docs/GUI-ATC-TC-007.pdf"
+  }
+]
