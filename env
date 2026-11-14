@@ -1,0 +1,10 @@
+FOUNDRY_MODEL_ENDPOINT="https://afdscc01.services.ai.azure.com/openai/v1"
+FOUNDRY_MODEL_DEPLOYMENT="gpt-5.6-luna"
+FOUNDRY_MODEL_NAME="gpt-5.6-luna"
+FOUNDRY_MODEL_VERSION="2026-07-09"
+FOUNDRY_RESOURCE_URL="https://afdscc01.services.ai.azure.com"
+
+# Azure AI Document Intelligence y Content Safety (laboratorio-01)
+DOCUMENT_INTELLIGENCE_ENDPOINT="https://docintellntt.cognitiveservices.azure.com/"
+CONTENT_SAFETY_ENDPOINT="https://contentsafetyex.cognitiveservices.azure.com/"
+BLOCKLIST_NAME="blk-bancanalytics-copiloto"

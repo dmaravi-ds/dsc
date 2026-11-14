@@ -1,0 +1,7236 @@
+{
+  "apiVersion": "2024-11-30",
+  "modelId": "prebuilt-invoice",
+  "stringIndexType": "textElements",
+  "content": "PLÁSTICOS ANDINOS CARD S.A.C.\nRUC: 20611122233\nFACTURA ELECTRÓNICA\nAv. Argentina 2450, Callao, Perú\nE001-000358\nTel .: (01) 555-0101 · facturacion@plasticosandinos.example\nRUC 20611122233\nCliente: BancAnalytics S.A.\nFecha de emisión: 05/11/2026\nRUC: 20600000001\nFecha de vencimiento: 05/12/2026\nDirección: Av. Javier Prado Este 1234, San Isidro, Lima\nOrden de compra: OC-BCA-2026-0457\nAtención: Gerencia de Medios de Pago\nMoneda: Soles (PEN) · Pago: crédito 30 días\nCódigo\nDescripción\nCant.\nP. unitario\nImporte\nPL-CLA\nPlásticos tarjeta de crédito Clásica (chip + contactless)\n5,000\nS/ 4.80\nS/ 24,000.00\nPL-ORO\nPlásticos tarjeta de crédito Oro (chip + contactless)\n2,000\nS/ 6.50\nS/ 13,000.00\nPL-PLA\nPlásticos tarjeta de crédito Platinum (metalizado)\n800\nS/ 12.00\nS/ 9,600.00\nPL-BLK\nPlásticos tarjeta de crédito Black (metal)\n150\nS/ 45.00\nS/ 6,750.00\nKT-BIE\nKit de bienvenida impreso (sobre, carta y folleto)\n7,950\nS/ 1.20\nS/ 9,540.00\nOp. gravada (subtotal)\nS/ 62,890.00\nIGV (18%)\nS/ 11,320.20\nIMPORTE TOTAL\nS/ 74,210.20\nSon: setenta y cuatro mil doscientos diez con 20/100 soles. Depositar en la cuenta corriente BancAnalytics N.º\n191-0000000-0-00 (ficticia) a nombre de Plásticos Andinos Card S.A.C.\nDOCUMENTO 100% FICTICIO generado para un laboratorio académico. Ni el emisor, ni el cliente, ni los RUC, cuentas o montos corresponden\na entidades o transacciones reales.",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0.029458530247211456,
+      "width": 8.2639,
+      "height": 11.6806,
+      "unit": "inch",
+      "words": [
+        {
+          "content": "PLÁSTICOS",
+          "polygon": [
+            0.7814,
+            0.7572,
+            1.5012,
+            0.7565,
+            1.501,
+            0.9011,
+            0.7815,
+            0.9011
+          ],
+          "confidence": 0.926,
+          "span": {
+            "offset": 0,
+            "length": 9
+          }
+        },
+        {
+          "content": "ANDINOS",
+          "polygon": [
+            1.539,
+            0.7566,
+            2.112,
+            0.7588,
+            2.1116,
+            0.9011,
+            1.5389,
+            0.9011
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 10,
+            "length": 7
+          }
+        },
+        {
+          "content": "CARD",
+          "polygon": [
+            2.1546,
+            0.7589,
+            2.505,
+            0.76,
+            2.5044,
+            0.9011,
+            2.1542,
+            0.9011
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 18,
+            "length": 4
+          }
+        },
+        {
+          "content": "S.A.C.",
+          "polygon": [
+            2.55,
+            0.7598,
+            2.922,
+            0.7593,
+            2.922,
+            0.9011,
+            2.5494,
+            0.9011
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 23,
+            "length": 6
+          }
+        },
+        {
+          "content": "RUC:",
+          "polygon": [
+            0.7833,
+            0.9298,
+            1.0882,
+            0.9305,
+            1.0879,
+            1.0665,
+            0.7833,
+            1.0665
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 30,
+            "length": 4
+          }
+        },
+        {
+          "content": "20611122233",
+          "polygon": [
+            1.1279,
+            0.9304,
+            1.9056,
+            0.9318,
+            1.9053,
+            1.0635,
+            1.1277,
+            1.0665
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 35,
+            "length": 11
+          }
+        },
+        {
+          "content": "FACTURA",
+          "polygon": [
+            5.191,
+            0.8006,
+            5.8059,
+            0.8005,
+            5.8057,
+            0.9389,
+            5.1907,
+            0.9396
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 47,
+            "length": 7
+          }
+        },
+        {
+          "content": "ELECTRÓNICA",
+          "polygon": [
+            5.8446,
+            0.8005,
+            6.7515,
+            0.7999,
+            6.7515,
+            0.9385,
+            5.8444,
+            0.9388
+          ],
+          "confidence": 0.531,
+          "span": {
+            "offset": 55,
+            "length": 11
+          }
+        },
+        {
+          "content": "Av.",
+          "polygon": [
+            0.7802,
+            1.1048,
+            0.9631,
+            1.1037,
+            0.9629,
+            1.2513,
+            0.78,
+            1.2511
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 67,
+            "length": 3
+          }
+        },
+        {
+          "content": "Argentina",
+          "polygon": [
+            1.0021,
+            1.1033,
+            1.5338,
+            1.1016,
+            1.5337,
+            1.251,
+            1.0019,
+            1.2513
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 71,
+            "length": 9
+          }
+        },
+        {
+          "content": "2450,",
+          "polygon": [
+            1.5728,
+            1.1017,
+            1.8777,
+            1.1012,
+            1.8774,
+            1.2504,
+            1.5728,
+            1.2507
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 81,
+            "length": 5
+          }
+        },
+        {
+          "content": "Callao,",
+          "polygon": [
+            1.9241,
+            1.101,
+            2.3045,
+            1.1006,
+            2.3041,
+            1.2502,
+            1.9237,
+            1.2504
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 87,
+            "length": 7
+          }
+        },
+        {
+          "content": "Perú",
+          "polygon": [
+            2.3484,
+            1.1008,
+            2.6196,
+            1.1005,
+            2.6196,
+            1.2483,
+            2.348,
+            1.2498
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 95,
+            "length": 4
+          }
+        },
+        {
+          "content": "E001-000358",
+          "polygon": [
+            5.1934,
+            1.0588,
+            5.9639,
+            1.0584,
+            5.9639,
+            1.1863,
+            5.1933,
+            1.1863
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 100,
+            "length": 11
+          }
+        },
+        {
+          "content": "Tel",
+          "polygon": [
+            0.7815,
+            1.265,
+            0.9126,
+            1.2648,
+            0.9128,
+            1.4177,
+            0.7817,
+            1.417
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 112,
+            "length": 3
+          }
+        },
+        {
+          "content": ".:",
+          "polygon": [
+            0.9428,
+            1.2647,
+            1.026,
+            1.2646,
+            1.0263,
+            1.4183,
+            0.9431,
+            1.4179
+          ],
+          "confidence": 0.985,
+          "span": {
+            "offset": 116,
+            "length": 2
+          }
+        },
+        {
+          "content": "(01)",
+          "polygon": [
+            1.0714,
+            1.2649,
+            1.2882,
+            1.2658,
+            1.2883,
+            1.4182,
+            1.0716,
+            1.4182
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 119,
+            "length": 4
+          }
+        },
+        {
+          "content": "555-0101",
+          "polygon": [
+            1.326,
+            1.2657,
+            1.8326,
+            1.2657,
+            1.8326,
+            1.4184,
+            1.3261,
+            1.4182
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 124,
+            "length": 8
+          }
+        },
+        {
+          "content": "·",
+          "polygon": [
+            1.8906,
+            1.2657,
+            1.9133,
+            1.2657,
+            1.9133,
+            1.4186,
+            1.8906,
+            1.4186
+          ],
+          "confidence": 0.665,
+          "span": {
+            "offset": 133,
+            "length": 1
+          }
+        },
+        {
+          "content": "facturacion@plasticosandinos.example",
+          "polygon": [
+            1.9536,
+            1.2658,
+            4.1377,
+            1.2647,
+            4.1377,
+            1.4201,
+            1.9536,
+            1.4187
+          ],
+          "confidence": 0.916,
+          "span": {
+            "offset": 135,
+            "length": 36
+          }
+        },
+        {
+          "content": "RUC",
+          "polygon": [
+            5.1931,
+            1.3069,
+            5.4699,
+            1.3077,
+            5.4697,
+            1.4401,
+            5.1934,
+            1.4408
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 172,
+            "length": 3
+          }
+        },
+        {
+          "content": "20611122233",
+          "polygon": [
+            5.5048,
+            1.3078,
+            6.2828,
+            1.3071,
+            6.2826,
+            1.4398,
+            5.5046,
+            1.4399
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 176,
+            "length": 11
+          }
+        },
+        {
+          "content": "Cliente:",
+          "polygon": [
+            0.7809,
+            1.7107,
+            1.2385,
+            1.7115,
+            1.2384,
+            1.8579,
+            0.7811,
+            1.8569
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 188,
+            "length": 8
+          }
+        },
+        {
+          "content": "BancAnalytics",
+          "polygon": [
+            1.2888,
+            1.7117,
+            2.0649,
+            1.71,
+            2.0646,
+            1.8575,
+            1.2886,
+            1.8577
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 197,
+            "length": 13
+          }
+        },
+        {
+          "content": "S.A.",
+          "polygon": [
+            2.1033,
+            1.7096,
+            2.3399,
+            1.7087,
+            2.3399,
+            1.8554,
+            2.1029,
+            1.8575
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 211,
+            "length": 4
+          }
+        },
+        {
+          "content": "Fecha",
+          "polygon": [
+            4.7147,
+            1.7112,
+            5.0808,
+            1.7125,
+            5.0806,
+            1.852,
+            4.7148,
+            1.8526
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 216,
+            "length": 5
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            5.122,
+            1.7125,
+            5.2615,
+            1.7117,
+            5.2614,
+            1.8516,
+            5.1218,
+            1.8519
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 222,
+            "length": 2
+          }
+        },
+        {
+          "content": "emisión:",
+          "polygon": [
+            5.3004,
+            1.7115,
+            5.8037,
+            1.7108,
+            5.8036,
+            1.85,
+            5.3003,
+            1.8513
+          ],
+          "confidence": 0.974,
+          "span": {
+            "offset": 225,
+            "length": 8
+          }
+        },
+        {
+          "content": "05/11/2026",
+          "polygon": [
+            5.8495,
+            1.7108,
+            6.489,
+            1.7098,
+            6.489,
+            1.847,
+            5.8494,
+            1.8497
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 234,
+            "length": 10
+          }
+        },
+        {
+          "content": "RUC:",
+          "polygon": [
+            0.781,
+            1.9548,
+            1.0941,
+            1.9568,
+            1.0937,
+            2.0931,
+            0.781,
+            2.0931
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 245,
+            "length": 4
+          }
+        },
+        {
+          "content": "20600000001",
+          "polygon": [
+            1.1372,
+            1.9569,
+            1.9005,
+            1.9545,
+            1.9005,
+            2.093,
+            1.1367,
+            2.0931
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 250,
+            "length": 11
+          }
+        },
+        {
+          "content": "Fecha",
+          "polygon": [
+            4.7145,
+            1.9579,
+            5.0802,
+            1.9592,
+            5.08,
+            2.0979,
+            4.7146,
+            2.0988
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 262,
+            "length": 5
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            5.1214,
+            1.9591,
+            5.2631,
+            1.9586,
+            5.263,
+            2.0978,
+            5.1212,
+            2.0977
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 268,
+            "length": 2
+          }
+        },
+        {
+          "content": "vencimiento:",
+          "polygon": [
+            5.2996,
+            1.9585,
+            6.0608,
+            1.9565,
+            6.0607,
+            2.0961,
+            5.2996,
+            2.0978
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 271,
+            "length": 12
+          }
+        },
+        {
+          "content": "05/12/2026",
+          "polygon": [
+            6.1088,
+            1.9566,
+            6.7401,
+            1.954,
+            6.7401,
+            2.0944,
+            6.1086,
+            2.0958
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 284,
+            "length": 10
+          }
+        },
+        {
+          "content": "Dirección:",
+          "polygon": [
+            0.7793,
+            2.2063,
+            1.3921,
+            2.2059,
+            1.392,
+            2.3522,
+            0.7793,
+            2.351
+          ],
+          "confidence": 0.896,
+          "span": {
+            "offset": 295,
+            "length": 10
+          }
+        },
+        {
+          "content": "Av.",
+          "polygon": [
+            1.431,
+            2.2057,
+            1.6085,
+            2.2057,
+            1.6084,
+            2.3526,
+            1.4309,
+            2.3523
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 306,
+            "length": 3
+          }
+        },
+        {
+          "content": "Javier",
+          "polygon": [
+            1.6499,
+            2.2057,
+            1.9854,
+            2.2053,
+            1.9852,
+            2.3535,
+            1.6497,
+            2.3526
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 310,
+            "length": 6
+          }
+        },
+        {
+          "content": "Prado",
+          "polygon": [
+            2.0243,
+            2.2054,
+            2.3502,
+            2.2058,
+            2.3499,
+            2.3543,
+            2.0241,
+            2.3535
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 317,
+            "length": 5
+          }
+        },
+        {
+          "content": "Este",
+          "polygon": [
+            2.394,
+            2.2058,
+            2.6347,
+            2.2055,
+            2.6344,
+            2.3546,
+            2.3937,
+            2.3544
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 323,
+            "length": 4
+          }
+        },
+        {
+          "content": "1234,",
+          "polygon": [
+            2.6809,
+            2.2055,
+            2.9775,
+            2.2046,
+            2.9773,
+            2.3548,
+            2.6806,
+            2.3546
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 328,
+            "length": 5
+          }
+        },
+        {
+          "content": "San",
+          "polygon": [
+            3.0213,
+            2.2044,
+            3.2353,
+            2.2051,
+            3.2348,
+            2.3543,
+            3.0211,
+            2.3548
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 334,
+            "length": 3
+          }
+        },
+        {
+          "content": "Isidro,",
+          "polygon": [
+            3.2839,
+            2.2051,
+            3.6073,
+            2.2039,
+            3.6068,
+            2.3549,
+            3.2834,
+            2.3544
+          ],
+          "confidence": 0.949,
+          "span": {
+            "offset": 338,
+            "length": 7
+          }
+        },
+        {
+          "content": "Lima",
+          "polygon": [
+            3.656,
+            2.2037,
+            3.9322,
+            2.2032,
+            3.9322,
+            2.3543,
+            3.6555,
+            2.355
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 346,
+            "length": 4
+          }
+        },
+        {
+          "content": "Orden",
+          "polygon": [
+            4.7157,
+            2.206,
+            5.0865,
+            2.207,
+            5.0858,
+            2.3555,
+            4.7154,
+            2.3555
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 351,
+            "length": 5
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            5.1304,
+            2.2071,
+            5.2719,
+            2.2068,
+            5.2713,
+            2.3555,
+            5.1297,
+            2.3555
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 357,
+            "length": 2
+          }
+        },
+        {
+          "content": "compra:",
+          "polygon": [
+            5.311,
+            2.2066,
+            5.7915,
+            2.2054,
+            5.7912,
+            2.3538,
+            5.3103,
+            2.3553
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 360,
+            "length": 7
+          }
+        },
+        {
+          "content": "OC-BCA-2026-0457",
+          "polygon": [
+            5.8379,
+            2.2053,
+            6.9684,
+            2.202,
+            6.9684,
+            2.3495,
+            5.8377,
+            2.3539
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 368,
+            "length": 16
+          }
+        },
+        {
+          "content": "Atención:",
+          "polygon": [
+            0.7814,
+            2.4556,
+            1.3571,
+            2.4561,
+            1.3565,
+            2.6059,
+            0.781,
+            2.602
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 385,
+            "length": 9
+          }
+        },
+        {
+          "content": "Gerencia",
+          "polygon": [
+            1.4038,
+            2.4563,
+            1.9056,
+            2.4573,
+            1.905,
+            2.6081,
+            1.4033,
+            2.6062
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 395,
+            "length": 8
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            1.9425,
+            2.4574,
+            2.0778,
+            2.4576,
+            2.0772,
+            2.6082,
+            1.9419,
+            2.6081
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 404,
+            "length": 2
+          }
+        },
+        {
+          "content": "Medios",
+          "polygon": [
+            2.1221,
+            2.4575,
+            2.5182,
+            2.4588,
+            2.517,
+            2.6105,
+            2.1214,
+            2.6084
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 407,
+            "length": 6
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            2.5551,
+            2.4591,
+            2.6879,
+            2.4596,
+            2.687,
+            2.6116,
+            2.5539,
+            2.6107
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 414,
+            "length": 2
+          }
+        },
+        {
+          "content": "Pago",
+          "polygon": [
+            2.7322,
+            2.4597,
+            3.0305,
+            2.461,
+            3.0305,
+            2.611,
+            2.7314,
+            2.6117
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 417,
+            "length": 4
+          }
+        },
+        {
+          "content": "Moneda:",
+          "polygon": [
+            4.7139,
+            2.4577,
+            5.2272,
+            2.4566,
+            5.2269,
+            2.6092,
+            4.7137,
+            2.609
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 422,
+            "length": 7
+          }
+        },
+        {
+          "content": "Soles",
+          "polygon": [
+            5.2753,
+            2.4566,
+            5.5838,
+            2.4566,
+            5.5833,
+            2.6108,
+            5.2749,
+            2.6092
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 430,
+            "length": 5
+          }
+        },
+        {
+          "content": "(PEN)",
+          "polygon": [
+            5.6242,
+            2.4567,
+            5.958,
+            2.4559,
+            5.9577,
+            2.6115,
+            5.6238,
+            2.6112
+          ],
+          "confidence": 0.982,
+          "span": {
+            "offset": 436,
+            "length": 5
+          }
+        },
+        {
+          "content": "·",
+          "polygon": [
+            6.001,
+            2.4558,
+            6.0212,
+            2.4558,
+            6.0209,
+            2.6116,
+            6.0007,
+            2.6116
+          ],
+          "confidence": 0.543,
+          "span": {
+            "offset": 442,
+            "length": 1
+          }
+        },
+        {
+          "content": "Pago:",
+          "polygon": [
+            6.0693,
+            2.456,
+            6.4031,
+            2.4552,
+            6.4026,
+            2.6116,
+            6.0689,
+            2.6116
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 444,
+            "length": 5
+          }
+        },
+        {
+          "content": "crédito",
+          "polygon": [
+            6.4461,
+            2.4551,
+            6.8203,
+            2.4561,
+            6.8199,
+            2.6101,
+            6.4456,
+            2.6117
+          ],
+          "confidence": 0.944,
+          "span": {
+            "offset": 450,
+            "length": 7
+          }
+        },
+        {
+          "content": "30",
+          "polygon": [
+            6.8583,
+            2.4561,
+            6.9923,
+            2.4553,
+            6.9919,
+            2.6094,
+            6.8579,
+            2.6099
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 458,
+            "length": 2
+          }
+        },
+        {
+          "content": "días",
+          "polygon": [
+            7.0302,
+            2.4551,
+            7.2766,
+            2.4542,
+            7.2766,
+            2.6092,
+            7.0298,
+            2.6093
+          ],
+          "confidence": 0.912,
+          "span": {
+            "offset": 461,
+            "length": 4
+          }
+        },
+        {
+          "content": "Código",
+          "polygon": [
+            0.7849,
+            2.8466,
+            1.2327,
+            2.8504,
+            1.2327,
+            2.998,
+            0.7844,
+            2.9957
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 466,
+            "length": 6
+          }
+        },
+        {
+          "content": "Descripción",
+          "polygon": [
+            1.49,
+            2.8471,
+            2.2201,
+            2.8461,
+            2.2201,
+            2.9943,
+            1.4901,
+            2.9943
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 473,
+            "length": 11
+          }
+        },
+        {
+          "content": "Cant.",
+          "polygon": [
+            4.8772,
+            2.8507,
+            5.1992,
+            2.8534,
+            5.1992,
+            2.9799,
+            4.8769,
+            2.9787
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 485,
+            "length": 5
+          }
+        },
+        {
+          "content": "P.",
+          "polygon": [
+            5.5801,
+            2.849,
+            5.7047,
+            2.8498,
+            5.7046,
+            2.9801,
+            5.58,
+            2.9807
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 491,
+            "length": 2
+          }
+        },
+        {
+          "content": "unitario",
+          "polygon": [
+            5.7477,
+            2.8492,
+            6.2093,
+            2.85,
+            6.2093,
+            2.9826,
+            5.7475,
+            2.9799
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 494,
+            "length": 8
+          }
+        },
+        {
+          "content": "Importe",
+          "polygon": [
+            6.5275,
+            2.8539,
+            7.0026,
+            2.8515,
+            7.0026,
+            2.9932,
+            6.5273,
+            2.9943
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 503,
+            "length": 7
+          }
+        },
+        {
+          "content": "PL-CLA",
+          "polygon": [
+            0.7828,
+            3.0985,
+            1.2384,
+            3.0999,
+            1.2384,
+            3.2329,
+            0.7833,
+            3.2335
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 511,
+            "length": 6
+          }
+        },
+        {
+          "content": "Plásticos",
+          "polygon": [
+            1.4888,
+            3.0926,
+            1.996,
+            3.0942,
+            1.9955,
+            3.2499,
+            1.4885,
+            3.2475
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 518,
+            "length": 9
+          }
+        },
+        {
+          "content": "tarjeta",
+          "polygon": [
+            2.0321,
+            3.0941,
+            2.3745,
+            3.094,
+            2.3739,
+            3.2509,
+            2.0316,
+            3.25
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 528,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            2.4157,
+            3.0941,
+            2.5496,
+            3.0942,
+            2.5492,
+            3.2509,
+            2.4152,
+            3.2509
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 536,
+            "length": 2
+          }
+        },
+        {
+          "content": "crédito",
+          "polygon": [
+            2.5883,
+            3.0943,
+            2.9616,
+            3.0951,
+            2.9611,
+            3.2509,
+            2.5878,
+            3.2509
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 539,
+            "length": 7
+          }
+        },
+        {
+          "content": "Clásica",
+          "polygon": [
+            3.0002,
+            3.0951,
+            3.4019,
+            3.095,
+            3.4012,
+            3.2509,
+            2.9997,
+            3.2509
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 547,
+            "length": 7
+          }
+        },
+        {
+          "content": "(chip",
+          "polygon": [
+            3.4457,
+            3.095,
+            3.7109,
+            3.0952,
+            3.7102,
+            3.2509,
+            3.445,
+            3.2509
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 555,
+            "length": 5
+          }
+        },
+        {
+          "content": "+",
+          "polygon": [
+            3.7521,
+            3.0951,
+            3.8191,
+            3.095,
+            3.8185,
+            3.2509,
+            3.7515,
+            3.2509
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 561,
+            "length": 1
+          }
+        },
+        {
+          "content": "contactless)",
+          "polygon": [
+            3.8551,
+            3.0949,
+            4.5314,
+            3.0958,
+            4.5314,
+            3.2509,
+            3.8546,
+            3.2509
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 563,
+            "length": 12
+          }
+        },
+        {
+          "content": "5,000",
+          "polygon": [
+            5.1059,
+            3.1031,
+            5.4322,
+            3.1023,
+            5.4318,
+            3.2368,
+            5.1057,
+            3.2383
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 576,
+            "length": 5
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            5.9655,
+            3.1016,
+            6.0931,
+            3.1028,
+            6.093,
+            3.2301,
+            5.9655,
+            3.2303
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 582,
+            "length": 2
+          }
+        },
+        {
+          "content": "4.80",
+          "polygon": [
+            6.1224,
+            3.1025,
+            6.3748,
+            3.103,
+            6.3748,
+            3.2305,
+            6.1222,
+            3.2306
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 585,
+            "length": 4
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            6.7582,
+            3.0984,
+            6.8834,
+            3.0988,
+            6.883,
+            3.2376,
+            6.758,
+            3.2381
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 590,
+            "length": 2
+          }
+        },
+        {
+          "content": "24,000.00",
+          "polygon": [
+            6.9152,
+            3.0988,
+            7.482,
+            3.0997,
+            7.482,
+            3.2391,
+            6.9148,
+            3.2372
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 593,
+            "length": 9
+          }
+        },
+        {
+          "content": "PL-ORO",
+          "polygon": [
+            0.7821,
+            3.3482,
+            1.2784,
+            3.3492,
+            1.2784,
+            3.4834,
+            0.7826,
+            3.4829
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 603,
+            "length": 6
+          }
+        },
+        {
+          "content": "Plásticos",
+          "polygon": [
+            1.4883,
+            3.3441,
+            1.9973,
+            3.3443,
+            1.9968,
+            3.5003,
+            1.4881,
+            3.5
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 610,
+            "length": 9
+          }
+        },
+        {
+          "content": "tarjeta",
+          "polygon": [
+            2.0307,
+            3.3442,
+            2.3753,
+            3.345,
+            2.3747,
+            3.5015,
+            2.0302,
+            3.5004
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 620,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            2.4164,
+            3.3451,
+            2.5501,
+            3.3451,
+            2.5496,
+            3.5019,
+            2.4159,
+            3.5017
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 628,
+            "length": 2
+          }
+        },
+        {
+          "content": "crédito",
+          "polygon": [
+            2.5886,
+            3.345,
+            2.9614,
+            3.3451,
+            2.9607,
+            3.5019,
+            2.5882,
+            3.5019
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 631,
+            "length": 7
+          }
+        },
+        {
+          "content": "Oro",
+          "polygon": [
+            3,
+            3.345,
+            3.2031,
+            3.3453,
+            3.2023,
+            3.5019,
+            2.9993,
+            3.5019
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 639,
+            "length": 3
+          }
+        },
+        {
+          "content": "(chip",
+          "polygon": [
+            3.2443,
+            3.3454,
+            3.5091,
+            3.3449,
+            3.5084,
+            3.5019,
+            3.2435,
+            3.5019
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 643,
+            "length": 5
+          }
+        },
+        {
+          "content": "+",
+          "polygon": [
+            3.5502,
+            3.3451,
+            3.617,
+            3.3457,
+            3.6164,
+            3.5019,
+            3.5495,
+            3.5019
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 649,
+            "length": 1
+          }
+        },
+        {
+          "content": "contactless)",
+          "polygon": [
+            3.6556,
+            3.3459,
+            4.326,
+            3.3459,
+            4.326,
+            3.5019,
+            3.655,
+            3.5019
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 651,
+            "length": 12
+          }
+        },
+        {
+          "content": "2,000",
+          "polygon": [
+            5.104,
+            3.3544,
+            5.4332,
+            3.3529,
+            5.4332,
+            3.4877,
+            5.104,
+            3.4891
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 664,
+            "length": 5
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            5.9659,
+            3.3513,
+            6.0925,
+            3.3527,
+            6.0924,
+            3.4815,
+            5.9657,
+            3.4812
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 670,
+            "length": 2
+          }
+        },
+        {
+          "content": "6.50",
+          "polygon": [
+            6.1263,
+            3.3525,
+            6.3748,
+            3.3539,
+            6.3748,
+            3.4829,
+            6.1261,
+            3.4818
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 673,
+            "length": 4
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            6.7554,
+            3.3491,
+            6.8828,
+            3.3498,
+            6.8826,
+            3.4891,
+            6.7553,
+            3.4893
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 678,
+            "length": 2
+          }
+        },
+        {
+          "content": "13,000.00",
+          "polygon": [
+            6.9237,
+            3.3495,
+            7.482,
+            3.3511,
+            7.482,
+            3.4896,
+            6.9235,
+            3.4889
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 681,
+            "length": 9
+          }
+        },
+        {
+          "content": "PL-PLA",
+          "polygon": [
+            0.7817,
+            3.5951,
+            1.2327,
+            3.5969,
+            1.2327,
+            3.7264,
+            0.7821,
+            3.7263
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 691,
+            "length": 6
+          }
+        },
+        {
+          "content": "Plásticos",
+          "polygon": [
+            1.4875,
+            3.5891,
+            1.9768,
+            3.5896,
+            1.9764,
+            3.7436,
+            1.4874,
+            3.7424
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 698,
+            "length": 9
+          }
+        },
+        {
+          "content": "tarjeta",
+          "polygon": [
+            2.0074,
+            3.5896,
+            2.3743,
+            3.5901,
+            2.3739,
+            3.7444,
+            2.0069,
+            3.7437
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 708,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            2.4176,
+            3.5901,
+            2.5502,
+            3.59,
+            2.5498,
+            3.7444,
+            2.4173,
+            3.7444
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 716,
+            "length": 2
+          }
+        },
+        {
+          "content": "crédito",
+          "polygon": [
+            2.5884,
+            3.59,
+            2.963,
+            3.5904,
+            2.9624,
+            3.7455,
+            2.588,
+            3.7445
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 719,
+            "length": 7
+          }
+        },
+        {
+          "content": "Platinum",
+          "polygon": [
+            3.0038,
+            3.5904,
+            3.4803,
+            3.5907,
+            3.4795,
+            3.7471,
+            3.0031,
+            3.7456
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 727,
+            "length": 8
+          }
+        },
+        {
+          "content": "(metalizado)",
+          "polygon": [
+            3.5237,
+            3.5909,
+            4.2176,
+            3.5901,
+            4.2176,
+            3.7471,
+            3.5229,
+            3.7471
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 736,
+            "length": 12
+          }
+        },
+        {
+          "content": "800",
+          "polygon": [
+            5.2095,
+            3.6015,
+            5.4332,
+            3.6025,
+            5.4331,
+            3.7232,
+            5.2091,
+            3.7243
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 749,
+            "length": 3
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            5.8993,
+            3.5963,
+            6.0222,
+            3.5975,
+            6.0218,
+            3.7261,
+            5.899,
+            3.7259
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 753,
+            "length": 2
+          }
+        },
+        {
+          "content": "12.00",
+          "polygon": [
+            6.0646,
+            3.5976,
+            6.3748,
+            3.5975,
+            6.3748,
+            3.7273,
+            6.0641,
+            3.7261
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 756,
+            "length": 5
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            6.8243,
+            3.5962,
+            6.9514,
+            3.596,
+            6.9513,
+            3.7331,
+            6.824,
+            3.7338
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 762,
+            "length": 2
+          }
+        },
+        {
+          "content": "9,600.00",
+          "polygon": [
+            6.9871,
+            3.5959,
+            7.482,
+            3.5963,
+            7.482,
+            3.7323,
+            6.9869,
+            3.7327
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 765,
+            "length": 8
+          }
+        },
+        {
+          "content": "PL-BLK",
+          "polygon": [
+            0.7829,
+            3.8463,
+            1.2327,
+            3.8483,
+            1.2327,
+            3.9777,
+            0.7833,
+            3.9776
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 774,
+            "length": 6
+          }
+        },
+        {
+          "content": "Plásticos",
+          "polygon": [
+            1.4856,
+            3.8404,
+            1.9972,
+            3.8406,
+            1.9968,
+            3.9956,
+            1.4856,
+            3.9943
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 781,
+            "length": 9
+          }
+        },
+        {
+          "content": "tarjeta",
+          "polygon": [
+            2.0302,
+            3.8408,
+            2.3764,
+            3.8417,
+            2.376,
+            3.9963,
+            2.0299,
+            3.9957
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 791,
+            "length": 7
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            2.4171,
+            3.8419,
+            2.5495,
+            3.8419,
+            2.5492,
+            3.9967,
+            2.4167,
+            3.9963
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 799,
+            "length": 2
+          }
+        },
+        {
+          "content": "crédito",
+          "polygon": [
+            2.5876,
+            3.8419,
+            2.9618,
+            3.8423,
+            2.9613,
+            3.9975,
+            2.5874,
+            3.9968
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 802,
+            "length": 7
+          }
+        },
+        {
+          "content": "Black",
+          "polygon": [
+            3.0025,
+            3.8422,
+            3.3054,
+            3.8431,
+            3.3047,
+            3.9981,
+            3.002,
+            3.9977
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 810,
+            "length": 5
+          }
+        },
+        {
+          "content": "(metal)",
+          "polygon": [
+            3.341,
+            3.8433,
+            3.7324,
+            3.8424,
+            3.7324,
+            3.9981,
+            3.3403,
+            3.9981
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 816,
+            "length": 7
+          }
+        },
+        {
+          "content": "150",
+          "polygon": [
+            5.2186,
+            3.8525,
+            5.4332,
+            3.852,
+            5.4332,
+            3.9751,
+            5.2185,
+            3.9753
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 824,
+            "length": 3
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            5.8982,
+            3.8463,
+            6.0205,
+            3.8478,
+            6.0204,
+            3.9778,
+            5.8981,
+            3.9785
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 828,
+            "length": 2
+          }
+        },
+        {
+          "content": "45.00",
+          "polygon": [
+            6.0527,
+            3.8475,
+            6.3748,
+            3.8489,
+            6.3748,
+            3.98,
+            6.0525,
+            3.9779
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 831,
+            "length": 5
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            6.8237,
+            3.8479,
+            6.9513,
+            3.8477,
+            6.9513,
+            3.9867,
+            6.8237,
+            3.9867
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 837,
+            "length": 2
+          }
+        },
+        {
+          "content": "6,750.00",
+          "polygon": [
+            6.9855,
+            3.8476,
+            7.48,
+            3.8464,
+            7.4793,
+            3.9867,
+            6.9854,
+            3.9867
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 840,
+            "length": 8
+          }
+        },
+        {
+          "content": "KT-BIE",
+          "polygon": [
+            0.7802,
+            4.0974,
+            1.2042,
+            4.0986,
+            1.2042,
+            4.2262,
+            0.7802,
+            4.2262
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 849,
+            "length": 6
+          }
+        },
+        {
+          "content": "Kit",
+          "polygon": [
+            1.4833,
+            4.0926,
+            1.6454,
+            4.0927,
+            1.6452,
+            4.2471,
+            1.4833,
+            4.2478
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 856,
+            "length": 3
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            1.6789,
+            4.0928,
+            1.8024,
+            4.0933,
+            1.8021,
+            4.2472,
+            1.6786,
+            4.247
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 860,
+            "length": 2
+          }
+        },
+        {
+          "content": "bienvenida",
+          "polygon": [
+            1.8333,
+            4.0935,
+            2.4406,
+            4.0935,
+            2.44,
+            4.2498,
+            1.8329,
+            4.2472
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 863,
+            "length": 10
+          }
+        },
+        {
+          "content": "impreso",
+          "polygon": [
+            2.4715,
+            4.0936,
+            2.9347,
+            4.0939,
+            2.9341,
+            4.2514,
+            2.4709,
+            4.2499
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 874,
+            "length": 7
+          }
+        },
+        {
+          "content": "(sobre,",
+          "polygon": [
+            2.9759,
+            4.0941,
+            3.3516,
+            4.0944,
+            3.3511,
+            4.2528,
+            2.9752,
+            4.2512
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 882,
+            "length": 7
+          }
+        },
+        {
+          "content": "carta",
+          "polygon": [
+            3.3927,
+            4.0945,
+            3.6681,
+            4.0943,
+            3.6675,
+            4.2522,
+            3.3922,
+            4.2532
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 890,
+            "length": 5
+          }
+        },
+        {
+          "content": "y",
+          "polygon": [
+            3.7067,
+            4.0945,
+            3.7684,
+            4.0947,
+            3.7679,
+            4.252,
+            3.7061,
+            4.2521
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 896,
+            "length": 1
+          }
+        },
+        {
+          "content": "folleto)",
+          "polygon": [
+            3.8019,
+            4.0948,
+            4.1833,
+            4.0922,
+            4.1833,
+            4.2537,
+            3.8014,
+            4.252
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 898,
+            "length": 8
+          }
+        },
+        {
+          "content": "7,950",
+          "polygon": [
+            5.1056,
+            4.1001,
+            5.4332,
+            4.1009,
+            5.4332,
+            4.2334,
+            5.1055,
+            4.2347
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 907,
+            "length": 5
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            5.9652,
+            4.0985,
+            6.094,
+            4.0999,
+            6.0936,
+            4.2287,
+            5.965,
+            4.2285
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 913,
+            "length": 2
+          }
+        },
+        {
+          "content": "1.20",
+          "polygon": [
+            6.1341,
+            4.0999,
+            6.379,
+            4.1009,
+            6.3783,
+            4.2294,
+            6.1335,
+            4.229
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 916,
+            "length": 4
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            6.8229,
+            4.0969,
+            6.9495,
+            4.0969,
+            6.9494,
+            4.2355,
+            6.8227,
+            4.2361
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 921,
+            "length": 2
+          }
+        },
+        {
+          "content": "9,540.00",
+          "polygon": [
+            6.9857,
+            4.0969,
+            7.482,
+            4.0973,
+            7.482,
+            4.235,
+            6.9854,
+            4.2351
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 924,
+            "length": 8
+          }
+        },
+        {
+          "content": "Op.",
+          "polygon": [
+            4.3218,
+            4.4567,
+            4.5316,
+            4.4577,
+            4.5317,
+            4.6197,
+            4.3216,
+            4.6187
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 933,
+            "length": 3
+          }
+        },
+        {
+          "content": "gravada",
+          "polygon": [
+            4.5767,
+            4.4581,
+            5.0493,
+            4.4572,
+            5.0491,
+            4.6177,
+            4.5768,
+            4.6198
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 937,
+            "length": 7
+          }
+        },
+        {
+          "content": "(subtotal)",
+          "polygon": [
+            5.0944,
+            4.4572,
+            5.6493,
+            4.4545,
+            5.6488,
+            4.6183,
+            5.0942,
+            4.6176
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 945,
+            "length": 10
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            6.6321,
+            4.4557,
+            6.7666,
+            4.456,
+            6.7662,
+            4.6026,
+            6.6318,
+            4.6026
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 956,
+            "length": 2
+          }
+        },
+        {
+          "content": "62,890.00",
+          "polygon": [
+            6.8002,
+            4.4558,
+            7.3964,
+            4.4564,
+            7.3964,
+            4.6026,
+            6.7998,
+            4.6025
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 959,
+            "length": 9
+          }
+        },
+        {
+          "content": "IGV",
+          "polygon": [
+            4.3226,
+            4.7044,
+            4.5393,
+            4.7036,
+            4.5389,
+            4.8633,
+            4.3224,
+            4.8621
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 969,
+            "length": 3
+          }
+        },
+        {
+          "content": "(18%)",
+          "polygon": [
+            4.5732,
+            4.7041,
+            4.9481,
+            4.7055,
+            4.9481,
+            4.865,
+            4.5729,
+            4.8634
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 973,
+            "length": 5
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            6.6323,
+            4.7059,
+            6.7671,
+            4.7065,
+            6.7671,
+            4.8533,
+            6.6322,
+            4.8535
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 979,
+            "length": 2
+          }
+        },
+        {
+          "content": "11,320.20",
+          "polygon": [
+            6.8104,
+            4.7063,
+            7.3964,
+            4.7066,
+            7.3964,
+            4.8536,
+            6.8103,
+            4.853
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 982,
+            "length": 9
+          }
+        },
+        {
+          "content": "IMPORTE",
+          "polygon": [
+            4.3168,
+            4.9543,
+            4.9248,
+            4.9556,
+            4.9245,
+            5.101,
+            4.317,
+            5.1007
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 992,
+            "length": 7
+          }
+        },
+        {
+          "content": "TOTAL",
+          "polygon": [
+            4.9631,
+            4.9559,
+            5.416,
+            4.957,
+            5.416,
+            5.103,
+            4.9627,
+            5.1012
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 1000,
+            "length": 5
+          }
+        },
+        {
+          "content": "S/",
+          "polygon": [
+            6.6305,
+            4.9557,
+            6.7654,
+            4.956,
+            6.7648,
+            5.1065,
+            6.63,
+            5.1071
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1006,
+            "length": 2
+          }
+        },
+        {
+          "content": "74,210.20",
+          "polygon": [
+            6.8022,
+            4.9558,
+            7.3959,
+            4.9562,
+            7.3952,
+            5.1061,
+            6.8015,
+            5.1058
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1009,
+            "length": 9
+          }
+        },
+        {
+          "content": "Son:",
+          "polygon": [
+            0.7826,
+            5.3213,
+            1.0386,
+            5.322,
+            1.0379,
+            5.48,
+            0.7818,
+            5.4781
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1019,
+            "length": 4
+          }
+        },
+        {
+          "content": "setenta",
+          "polygon": [
+            1.083,
+            5.3221,
+            1.4723,
+            5.3236,
+            1.4714,
+            5.481,
+            1.0823,
+            5.4803
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1024,
+            "length": 7
+          }
+        },
+        {
+          "content": "y",
+          "polygon": [
+            1.5036,
+            5.3238,
+            1.5898,
+            5.3241,
+            1.5889,
+            5.481,
+            1.5027,
+            5.481
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1032,
+            "length": 1
+          }
+        },
+        {
+          "content": "cuatro",
+          "polygon": [
+            1.6238,
+            5.3243,
+            1.953,
+            5.3243,
+            1.9518,
+            5.481,
+            1.6228,
+            5.481
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1034,
+            "length": 6
+          }
+        },
+        {
+          "content": "mil",
+          "polygon": [
+            1.9843,
+            5.3243,
+            2.1594,
+            5.324,
+            2.1581,
+            5.481,
+            1.9831,
+            5.481
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1041,
+            "length": 3
+          }
+        },
+        {
+          "content": "doscientos",
+          "polygon": [
+            2.2012,
+            5.3239,
+            2.7968,
+            5.3227,
+            2.7959,
+            5.481,
+            2.1999,
+            5.481
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1045,
+            "length": 10
+          }
+        },
+        {
+          "content": "diez",
+          "polygon": [
+            2.8334,
+            5.3227,
+            3.0607,
+            5.3227,
+            3.0599,
+            5.481,
+            2.8325,
+            5.481
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1056,
+            "length": 4
+          }
+        },
+        {
+          "content": "con",
+          "polygon": [
+            3.0973,
+            5.3228,
+            3.2932,
+            5.3228,
+            3.2923,
+            5.481,
+            3.0965,
+            5.481
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1061,
+            "length": 3
+          }
+        },
+        {
+          "content": "20/100",
+          "polygon": [
+            3.3324,
+            5.3229,
+            3.7112,
+            5.3228,
+            3.71,
+            5.481,
+            3.3315,
+            5.481
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1065,
+            "length": 6
+          }
+        },
+        {
+          "content": "soles.",
+          "polygon": [
+            3.7504,
+            5.3227,
+            4.0665,
+            5.322,
+            4.0655,
+            5.481,
+            3.7492,
+            5.481
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1072,
+            "length": 6
+          }
+        },
+        {
+          "content": "Depositar",
+          "polygon": [
+            4.1161,
+            5.3218,
+            4.6465,
+            5.3216,
+            4.6456,
+            5.481,
+            4.1152,
+            5.481
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1079,
+            "length": 9
+          }
+        },
+        {
+          "content": "en",
+          "polygon": [
+            4.6805,
+            5.3217,
+            4.7954,
+            5.3216,
+            4.7944,
+            5.4805,
+            4.6796,
+            5.4809
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1089,
+            "length": 2
+          }
+        },
+        {
+          "content": "la",
+          "polygon": [
+            4.8268,
+            5.3216,
+            4.9469,
+            5.3215,
+            4.9458,
+            5.4801,
+            4.8257,
+            5.4804
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 1092,
+            "length": 2
+          }
+        },
+        {
+          "content": "cuenta",
+          "polygon": [
+            4.9861,
+            5.3215,
+            5.3545,
+            5.3215,
+            5.3532,
+            5.4798,
+            4.9849,
+            5.48
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1095,
+            "length": 6
+          }
+        },
+        {
+          "content": "corriente",
+          "polygon": [
+            5.3963,
+            5.3216,
+            5.8796,
+            5.3192,
+            5.8782,
+            5.4794,
+            5.395,
+            5.4798
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1102,
+            "length": 9
+          }
+        },
+        {
+          "content": "BancAnalytics",
+          "polygon": [
+            5.9214,
+            5.3188,
+            6.6973,
+            5.3166,
+            6.6961,
+            5.4777,
+            5.9199,
+            5.4793
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1112,
+            "length": 13
+          }
+        },
+        {
+          "content": "N.º",
+          "polygon": [
+            6.7391,
+            5.3165,
+            6.9113,
+            5.3159,
+            6.9113,
+            5.4783,
+            6.7379,
+            5.4778
+          ],
+          "confidence": 0.339,
+          "span": {
+            "offset": 1126,
+            "length": 3
+          }
+        },
+        {
+          "content": "191-0000000-0-00",
+          "polygon": [
+            0.7926,
+            5.4906,
+            1.8147,
+            5.4917,
+            1.8145,
+            5.6499,
+            0.7925,
+            5.6463
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 1130,
+            "length": 16
+          }
+        },
+        {
+          "content": "(ficticia)",
+          "polygon": [
+            1.8561,
+            5.4919,
+            2.283,
+            5.4914,
+            2.2828,
+            5.6514,
+            1.8559,
+            5.6501
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 1147,
+            "length": 10
+          }
+        },
+        {
+          "content": "a",
+          "polygon": [
+            2.3192,
+            5.4915,
+            2.3658,
+            5.4915,
+            2.3656,
+            5.6514,
+            2.319,
+            5.6514
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1158,
+            "length": 1
+          }
+        },
+        {
+          "content": "nombre",
+          "polygon": [
+            2.3969,
+            5.4915,
+            2.8419,
+            5.4923,
+            2.8417,
+            5.6521,
+            2.3966,
+            5.6515
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1160,
+            "length": 6
+          }
+        },
+        {
+          "content": "de",
+          "polygon": [
+            2.8808,
+            5.4923,
+            3.0179,
+            5.4924,
+            3.0177,
+            5.6514,
+            2.8805,
+            5.6519
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 1167,
+            "length": 2
+          }
+        },
+        {
+          "content": "Plásticos",
+          "polygon": [
+            3.0619,
+            5.4924,
+            3.5509,
+            5.4929,
+            3.5507,
+            5.651,
+            3.0617,
+            5.6513
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1170,
+            "length": 9
+          }
+        },
+        {
+          "content": "Andinos",
+          "polygon": [
+            3.5872,
+            5.4929,
+            4.0374,
+            5.4939,
+            4.0372,
+            5.6505,
+            3.5869,
+            5.651
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1180,
+            "length": 7
+          }
+        },
+        {
+          "content": "Card",
+          "polygon": [
+            4.0762,
+            5.4939,
+            4.3376,
+            5.4936,
+            4.3373,
+            5.6502,
+            4.076,
+            5.6505
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1188,
+            "length": 4
+          }
+        },
+        {
+          "content": "S.A.C.",
+          "polygon": [
+            4.3815,
+            5.4936,
+            4.7483,
+            5.4922,
+            4.7483,
+            5.6485,
+            4.3813,
+            5.6501
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1193,
+            "length": 6
+          }
+        },
+        {
+          "content": "DOCUMENTO",
+          "polygon": [
+            0.7823,
+            5.8993,
+            1.471,
+            5.8996,
+            1.4706,
+            6.0387,
+            0.7819,
+            6.0355
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1200,
+            "length": 9
+          }
+        },
+        {
+          "content": "100%",
+          "polygon": [
+            1.5097,
+            5.8995,
+            1.7629,
+            5.8994,
+            1.7622,
+            6.04,
+            1.5093,
+            6.0389
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1210,
+            "length": 4
+          }
+        },
+        {
+          "content": "FICTICIO",
+          "polygon": [
+            1.8016,
+            5.8994,
+            2.2372,
+            5.9003,
+            2.2365,
+            6.0419,
+            1.801,
+            6.0402
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1215,
+            "length": 8
+          }
+        },
+        {
+          "content": "generado",
+          "polygon": [
+            2.2714,
+            5.9004,
+            2.7092,
+            5.9017,
+            2.7086,
+            6.0419,
+            2.2707,
+            6.0419
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1224,
+            "length": 8
+          }
+        },
+        {
+          "content": "para",
+          "polygon": [
+            2.7434,
+            5.9019,
+            2.9463,
+            5.9027,
+            2.9458,
+            6.0423,
+            2.7428,
+            6.0419
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1233,
+            "length": 4
+          }
+        },
+        {
+          "content": "un",
+          "polygon": [
+            2.9806,
+            5.9028,
+            3.0718,
+            5.9032,
+            3.0712,
+            6.0426,
+            2.98,
+            6.0424
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1238,
+            "length": 2
+          }
+        },
+        {
+          "content": "laboratorio",
+          "polygon": [
+            3.0991,
+            5.9033,
+            3.6122,
+            5.9049,
+            3.6116,
+            6.0436,
+            3.0986,
+            6.0426
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1241,
+            "length": 11
+          }
+        },
+        {
+          "content": "académico.",
+          "polygon": [
+            3.6441,
+            5.905,
+            4.1572,
+            5.9036,
+            4.1566,
+            6.0422,
+            3.6435,
+            6.0436
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1253,
+            "length": 10
+          }
+        },
+        {
+          "content": "Ni",
+          "polygon": [
+            4.1846,
+            5.9036,
+            4.2986,
+            5.9034,
+            4.2981,
+            6.0422,
+            4.184,
+            6.0422
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1264,
+            "length": 2
+          }
+        },
+        {
+          "content": "el",
+          "polygon": [
+            4.3305,
+            5.9034,
+            4.408,
+            5.9033,
+            4.4075,
+            6.0422,
+            4.33,
+            6.0422
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 1267,
+            "length": 2
+          }
+        },
+        {
+          "content": "emisor,",
+          "polygon": [
+            4.4423,
+            5.9032,
+            4.7752,
+            5.9031,
+            4.7747,
+            6.0429,
+            4.4417,
+            6.0422
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1270,
+            "length": 7
+          }
+        },
+        {
+          "content": "ni",
+          "polygon": [
+            4.8139,
+            5.9031,
+            4.8869,
+            5.9031,
+            4.8864,
+            6.0434,
+            4.8134,
+            6.0431
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 1278,
+            "length": 2
+          }
+        },
+        {
+          "content": "el",
+          "polygon": [
+            4.9211,
+            5.9032,
+            4.9987,
+            5.9032,
+            4.9981,
+            6.0439,
+            4.9206,
+            6.0435
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1281,
+            "length": 2
+          }
+        },
+        {
+          "content": "cliente,",
+          "polygon": [
+            5.0306,
+            5.9032,
+            5.3544,
+            5.9037,
+            5.3538,
+            6.0436,
+            5.03,
+            6.044
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1284,
+            "length": 8
+          }
+        },
+        {
+          "content": "ni",
+          "polygon": [
+            5.3932,
+            5.9037,
+            5.4524,
+            5.9038,
+            5.4518,
+            6.0435,
+            5.3926,
+            6.0436
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1293,
+            "length": 2
+          }
+        },
+        {
+          "content": "los",
+          "polygon": [
+            5.4798,
+            5.9039,
+            5.6303,
+            5.9042,
+            5.6297,
+            6.0433,
+            5.4792,
+            6.0434
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1296,
+            "length": 3
+          }
+        },
+        {
+          "content": "RUC,",
+          "polygon": [
+            5.6668,
+            5.9043,
+            5.9108,
+            5.9048,
+            5.9101,
+            6.0435,
+            5.6661,
+            6.0434
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 1300,
+            "length": 4
+          }
+        },
+        {
+          "content": "cuentas",
+          "polygon": [
+            5.945,
+            5.9049,
+            6.3076,
+            5.9045,
+            6.3069,
+            6.0437,
+            5.9443,
+            6.0435
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1305,
+            "length": 7
+          }
+        },
+        {
+          "content": "o",
+          "polygon": [
+            6.3395,
+            5.9045,
+            6.3828,
+            5.9044,
+            6.3821,
+            6.0438,
+            6.3388,
+            6.0437
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1313,
+            "length": 1
+          }
+        },
+        {
+          "content": "montos",
+          "polygon": [
+            6.4102,
+            5.9044,
+            6.7636,
+            5.9055,
+            6.763,
+            6.0436,
+            6.4095,
+            6.0438
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 1315,
+            "length": 6
+          }
+        },
+        {
+          "content": "corresponden",
+          "polygon": [
+            6.7978,
+            5.9056,
+            7.4421,
+            5.9059,
+            7.4421,
+            6.0442,
+            6.7972,
+            6.0436
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1322,
+            "length": 12
+          }
+        },
+        {
+          "content": "a",
+          "polygon": [
+            0.7788,
+            6.077,
+            0.8452,
+            6.0778,
+            0.8453,
+            6.1947,
+            0.7788,
+            6.1945
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1335,
+            "length": 1
+          }
+        },
+        {
+          "content": "entidades",
+          "polygon": [
+            0.8765,
+            6.0782,
+            1.3239,
+            6.0778,
+            1.3238,
+            6.1973,
+            0.8765,
+            6.1948
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1337,
+            "length": 9
+          }
+        },
+        {
+          "content": "o",
+          "polygon": [
+            1.3571,
+            6.078,
+            1.4138,
+            6.0778,
+            1.4136,
+            6.1977,
+            1.357,
+            6.1975
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 1347,
+            "length": 1
+          }
+        },
+        {
+          "content": "transacciones",
+          "polygon": [
+            1.4411,
+            6.0776,
+            2.0839,
+            6.0786,
+            2.0836,
+            6.1993,
+            1.4409,
+            6.1978
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 1349,
+            "length": 13
+          }
+        },
+        {
+          "content": "reales.",
+          "polygon": [
+            2.1171,
+            6.0787,
+            2.4312,
+            6.0783,
+            2.4312,
+            6.1972,
+            2.1168,
+            6.199
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 1363,
+            "length": 7
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "PLÁSTICOS ANDINOS CARD S.A.C.",
+          "polygon": [
+            0.7814,
+            0.7561,
+            2.9205,
+            0.7571,
+            2.9204,
+            0.9011,
+            0.7813,
+            0.9006
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 29
+            }
+          ]
+        },
+        {
+          "content": "RUC: 20611122233",
+          "polygon": [
+            0.7833,
+            0.9298,
+            1.9024,
+            0.9297,
+            1.9024,
+            1.0643,
+            0.7833,
+            1.0645
+          ],
+          "spans": [
+            {
+              "offset": 30,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "FACTURA ELECTRÓNICA",
+          "polygon": [
+            5.1908,
+            0.799,
+            6.7499,
+            0.7995,
+            6.7498,
+            0.9377,
+            5.1908,
+            0.9373
+          ],
+          "spans": [
+            {
+              "offset": 47,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "Av. Argentina 2450, Callao, Perú",
+          "polygon": [
+            0.7799,
+            1.1016,
+            2.6161,
+            1.0999,
+            2.6162,
+            1.2481,
+            0.78,
+            1.2498
+          ],
+          "spans": [
+            {
+              "offset": 67,
+              "length": 32
+            }
+          ]
+        },
+        {
+          "content": "E001-000358",
+          "polygon": [
+            5.1932,
+            1.0588,
+            5.9586,
+            1.0581,
+            5.9587,
+            1.1852,
+            5.1933,
+            1.186
+          ],
+          "spans": [
+            {
+              "offset": 100,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Tel .: (01) 555-0101 · facturacion@plasticosandinos.example",
+          "polygon": [
+            0.7815,
+            1.2646,
+            4.1329,
+            1.2647,
+            4.1329,
+            1.4196,
+            0.7815,
+            1.4195
+          ],
+          "spans": [
+            {
+              "offset": 112,
+              "length": 59
+            }
+          ]
+        },
+        {
+          "content": "RUC 20611122233",
+          "polygon": [
+            5.1931,
+            1.3063,
+            6.2789,
+            1.3068,
+            6.2789,
+            1.439,
+            5.1931,
+            1.4386
+          ],
+          "spans": [
+            {
+              "offset": 172,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "Cliente: BancAnalytics S.A.",
+          "polygon": [
+            0.7809,
+            1.7107,
+            2.3354,
+            1.7088,
+            2.3356,
+            1.8548,
+            0.7811,
+            1.8567
+          ],
+          "spans": [
+            {
+              "offset": 188,
+              "length": 27
+            }
+          ]
+        },
+        {
+          "content": "Fecha de emisión: 05/11/2026",
+          "polygon": [
+            4.7147,
+            1.7112,
+            6.4844,
+            1.7095,
+            6.4846,
+            1.8485,
+            4.7148,
+            1.8503
+          ],
+          "spans": [
+            {
+              "offset": 216,
+              "length": 28
+            }
+          ]
+        },
+        {
+          "content": "RUC: 20600000001",
+          "polygon": [
+            0.7809,
+            1.9548,
+            1.8975,
+            1.9542,
+            1.8976,
+            2.0919,
+            0.781,
+            2.0925
+          ],
+          "spans": [
+            {
+              "offset": 245,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Fecha de vencimiento: 05/12/2026",
+          "polygon": [
+            4.7143,
+            1.9579,
+            6.7387,
+            1.954,
+            6.739,
+            2.0929,
+            4.7146,
+            2.0968
+          ],
+          "spans": [
+            {
+              "offset": 262,
+              "length": 32
+            }
+          ]
+        },
+        {
+          "content": "Dirección: Av. Javier Prado Este 1234, San Isidro, Lima",
+          "polygon": [
+            0.7792,
+            2.2063,
+            3.9305,
+            2.2033,
+            3.9306,
+            2.3524,
+            0.7793,
+            2.3554
+          ],
+          "spans": [
+            {
+              "offset": 295,
+              "length": 55
+            }
+          ]
+        },
+        {
+          "content": "Orden de compra: OC-BCA-2026-0457",
+          "polygon": [
+            4.7151,
+            2.206,
+            6.9662,
+            2.2015,
+            6.9665,
+            2.3494,
+            4.7154,
+            2.3547
+          ],
+          "spans": [
+            {
+              "offset": 351,
+              "length": 33
+            }
+          ]
+        },
+        {
+          "content": "Atención: Gerencia de Medios de Pago",
+          "polygon": [
+            0.7814,
+            2.4525,
+            3.0254,
+            2.4601,
+            3.0247,
+            2.6105,
+            0.7808,
+            2.6013
+          ],
+          "spans": [
+            {
+              "offset": 385,
+              "length": 36
+            }
+          ]
+        },
+        {
+          "content": "Moneda: Soles (PEN) · Pago: crédito 30 días",
+          "polygon": [
+            4.7136,
+            2.4568,
+            7.2717,
+            2.4542,
+            7.2719,
+            2.6084,
+            4.7137,
+            2.611
+          ],
+          "spans": [
+            {
+              "offset": 422,
+              "length": 43
+            }
+          ]
+        },
+        {
+          "content": "Código",
+          "polygon": [
+            0.7849,
+            2.8466,
+            1.2279,
+            2.8502,
+            1.2267,
+            2.9968,
+            0.7838,
+            2.9932
+          ],
+          "spans": [
+            {
+              "offset": 466,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "Descripción",
+          "polygon": [
+            1.49,
+            2.8448,
+            2.2187,
+            2.8456,
+            2.2186,
+            2.9938,
+            1.4898,
+            2.993
+          ],
+          "spans": [
+            {
+              "offset": 473,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Cant.",
+          "polygon": [
+            4.8772,
+            2.8507,
+            5.1961,
+            2.8532,
+            5.1951,
+            2.9791,
+            4.8762,
+            2.9766
+          ],
+          "spans": [
+            {
+              "offset": 485,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "P. unitario",
+          "polygon": [
+            5.5801,
+            2.8487,
+            6.2073,
+            2.85,
+            6.207,
+            2.9805,
+            5.5799,
+            2.9792
+          ],
+          "spans": [
+            {
+              "offset": 491,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Importe",
+          "polygon": [
+            6.5269,
+            2.853,
+            6.9998,
+            2.8515,
+            7.0003,
+            2.9913,
+            6.5273,
+            2.9927
+          ],
+          "spans": [
+            {
+              "offset": 503,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "PL-CLA",
+          "polygon": [
+            0.7828,
+            3.0985,
+            1.2368,
+            3.098,
+            1.2369,
+            3.2307,
+            0.783,
+            3.2312
+          ],
+          "spans": [
+            {
+              "offset": 511,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "Plásticos tarjeta de crédito Clásica (chip + contactless)",
+          "polygon": [
+            1.4887,
+            3.0925,
+            4.5264,
+            3.0955,
+            4.5263,
+            3.2509,
+            1.4885,
+            3.2487
+          ],
+          "spans": [
+            {
+              "offset": 518,
+              "length": 57
+            }
+          ]
+        },
+        {
+          "content": "5,000",
+          "polygon": [
+            5.1054,
+            3.1031,
+            5.4296,
+            3.1023,
+            5.43,
+            3.2358,
+            5.1057,
+            3.2367
+          ],
+          "spans": [
+            {
+              "offset": 576,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "S/ 4.80",
+          "polygon": [
+            5.9655,
+            3.1016,
+            6.3748,
+            3.103,
+            6.3744,
+            3.2297,
+            5.965,
+            3.2283
+          ],
+          "spans": [
+            {
+              "offset": 582,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "S/ 24,000.00",
+          "polygon": [
+            6.7582,
+            3.0984,
+            7.4782,
+            3.0998,
+            7.4779,
+            3.2373,
+            6.758,
+            3.236
+          ],
+          "spans": [
+            {
+              "offset": 590,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "PL-ORO",
+          "polygon": [
+            0.7821,
+            3.3482,
+            1.2738,
+            3.3491,
+            1.2735,
+            3.4817,
+            0.7819,
+            3.4808
+          ],
+          "spans": [
+            {
+              "offset": 603,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "Plásticos tarjeta de crédito Oro (chip + contactless)",
+          "polygon": [
+            1.4883,
+            3.343,
+            4.3236,
+            3.3456,
+            4.3235,
+            3.5013,
+            1.4881,
+            3.4987
+          ],
+          "spans": [
+            {
+              "offset": 610,
+              "length": 53
+            }
+          ]
+        },
+        {
+          "content": "2,000",
+          "polygon": [
+            5.1033,
+            3.3544,
+            5.4289,
+            3.3528,
+            5.4296,
+            3.4858,
+            5.104,
+            3.4874
+          ],
+          "spans": [
+            {
+              "offset": 664,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "S/ 6.50",
+          "polygon": [
+            5.9659,
+            3.3513,
+            6.3748,
+            3.3533,
+            6.3743,
+            3.481,
+            5.9653,
+            3.4791
+          ],
+          "spans": [
+            {
+              "offset": 670,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "S/ 13,000.00",
+          "polygon": [
+            6.7554,
+            3.3491,
+            7.4771,
+            3.3502,
+            7.4768,
+            3.4881,
+            6.7552,
+            3.487
+          ],
+          "spans": [
+            {
+              "offset": 678,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "PL-PLA",
+          "polygon": [
+            0.7817,
+            3.5951,
+            1.2289,
+            3.5964,
+            1.2286,
+            3.7254,
+            0.7813,
+            3.7242
+          ],
+          "spans": [
+            {
+              "offset": 691,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "Plásticos tarjeta de crédito Platinum (metalizado)",
+          "polygon": [
+            1.4875,
+            3.5881,
+            4.2139,
+            3.5901,
+            4.2138,
+            3.7456,
+            1.4874,
+            3.7435
+          ],
+          "spans": [
+            {
+              "offset": 698,
+              "length": 50
+            }
+          ]
+        },
+        {
+          "content": "800",
+          "polygon": [
+            5.2095,
+            3.6015,
+            5.4286,
+            3.6021,
+            5.4282,
+            3.7234,
+            5.2091,
+            3.7228
+          ],
+          "spans": [
+            {
+              "offset": 749,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "S/ 12.00",
+          "polygon": [
+            5.8993,
+            3.5963,
+            6.3748,
+            3.5975,
+            6.3744,
+            3.7254,
+            5.899,
+            3.7242
+          ],
+          "spans": [
+            {
+              "offset": 753,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "S/ 9,600.00",
+          "polygon": [
+            6.8237,
+            3.5962,
+            7.4786,
+            3.595,
+            7.4789,
+            3.7303,
+            6.824,
+            3.7315
+          ],
+          "spans": [
+            {
+              "offset": 762,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "PL-BLK",
+          "polygon": [
+            0.7829,
+            3.8462,
+            1.232,
+            3.8478,
+            1.2315,
+            3.9771,
+            0.7824,
+            3.9755
+          ],
+          "spans": [
+            {
+              "offset": 774,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "Plásticos tarjeta de crédito Black (metal)",
+          "polygon": [
+            1.4856,
+            3.8396,
+            3.7322,
+            3.8424,
+            3.732,
+            3.997,
+            1.4854,
+            3.9941
+          ],
+          "spans": [
+            {
+              "offset": 781,
+              "length": 42
+            }
+          ]
+        },
+        {
+          "content": "150",
+          "polygon": [
+            5.2184,
+            3.8523,
+            5.4276,
+            3.852,
+            5.4278,
+            3.974,
+            5.2185,
+            3.9743
+          ],
+          "spans": [
+            {
+              "offset": 824,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "S/ 45.00",
+          "polygon": [
+            5.8982,
+            3.8463,
+            6.3734,
+            3.8482,
+            6.3729,
+            3.9781,
+            5.8977,
+            3.9763
+          ],
+          "spans": [
+            {
+              "offset": 828,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "S/ 6,750.00",
+          "polygon": [
+            6.8235,
+            3.8473,
+            7.4776,
+            3.8464,
+            7.4778,
+            3.9846,
+            6.8237,
+            3.9854
+          ],
+          "spans": [
+            {
+              "offset": 837,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "KT-BIE",
+          "polygon": [
+            0.7802,
+            4.0974,
+            1.2005,
+            4.0982,
+            1.2003,
+            4.2262,
+            0.7799,
+            4.2257
+          ],
+          "spans": [
+            {
+              "offset": 849,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "Kit de bienvenida impreso (sobre, carta y folleto)",
+          "polygon": [
+            1.4833,
+            4.091,
+            4.1804,
+            4.0922,
+            4.1804,
+            4.251,
+            1.4833,
+            4.2498
+          ],
+          "spans": [
+            {
+              "offset": 856,
+              "length": 50
+            }
+          ]
+        },
+        {
+          "content": "7,950",
+          "polygon": [
+            5.1056,
+            4.1001,
+            5.4294,
+            4.1009,
+            5.429,
+            4.2332,
+            5.1053,
+            4.2324
+          ],
+          "spans": [
+            {
+              "offset": 907,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "S/ 1.20",
+          "polygon": [
+            5.9652,
+            4.0985,
+            6.375,
+            4.1007,
+            6.3743,
+            4.2286,
+            5.9645,
+            4.2264
+          ],
+          "spans": [
+            {
+              "offset": 913,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "S/ 9,540.00",
+          "polygon": [
+            6.8227,
+            4.0969,
+            7.4791,
+            4.0966,
+            7.4792,
+            4.2335,
+            6.8227,
+            4.2338
+          ],
+          "spans": [
+            {
+              "offset": 921,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "content": "Op. gravada (subtotal)",
+          "polygon": [
+            4.3213,
+            4.4567,
+            5.6452,
+            4.4544,
+            5.6456,
+            4.6157,
+            4.3217,
+            4.6183
+          ],
+          "spans": [
+            {
+              "offset": 933,
+              "length": 22
+            }
+          ]
+        },
+        {
+          "content": "S/ 62,890.00",
+          "polygon": [
+            6.6318,
+            4.4555,
+            7.3927,
+            4.4552,
+            7.3928,
+            4.6008,
+            6.6318,
+            4.6011
+          ],
+          "spans": [
+            {
+              "offset": 956,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "IGV (18%)",
+          "polygon": [
+            4.3226,
+            4.7025,
+            4.9445,
+            4.7055,
+            4.9437,
+            4.8639,
+            4.3218,
+            4.8609
+          ],
+          "spans": [
+            {
+              "offset": 969,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "S/ 11,320.20",
+          "polygon": [
+            6.6323,
+            4.7059,
+            7.391,
+            4.7066,
+            7.3909,
+            4.8521,
+            6.6321,
+            4.8515
+          ],
+          "spans": [
+            {
+              "offset": 979,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "IMPORTE TOTAL",
+          "polygon": [
+            4.3168,
+            4.9538,
+            5.4113,
+            4.9564,
+            5.4109,
+            5.1009,
+            4.3165,
+            5.0983
+          ],
+          "spans": [
+            {
+              "offset": 992,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "S/ 74,210.20",
+          "polygon": [
+            6.6301,
+            4.9557,
+            7.3917,
+            4.9561,
+            7.3916,
+            5.105,
+            6.6301,
+            5.1046
+          ],
+          "spans": [
+            {
+              "offset": 1006,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "Son: setenta y cuatro mil doscientos diez con 20/100 soles. Depositar en la cuenta corriente BancAnalytics N.º",
+          "polygon": [
+            0.7817,
+            5.3213,
+            6.9095,
+            5.3159,
+            6.9097,
+            5.4772,
+            0.7818,
+            5.481
+          ],
+          "spans": [
+            {
+              "offset": 1019,
+              "length": 110
+            }
+          ]
+        },
+        {
+          "content": "191-0000000-0-00 (ficticia) a nombre de Plásticos Andinos Card S.A.C.",
+          "polygon": [
+            0.7926,
+            5.4902,
+            4.7451,
+            5.4922,
+            4.745,
+            5.6507,
+            0.7925,
+            5.6487
+          ],
+          "spans": [
+            {
+              "offset": 1130,
+              "length": 69
+            }
+          ]
+        },
+        {
+          "content": "DOCUMENTO 100% FICTICIO generado para un laboratorio académico. Ni el emisor, ni el cliente, ni los RUC, cuentas o montos corresponden",
+          "polygon": [
+            0.782,
+            5.8983,
+            7.4396,
+            5.9052,
+            7.4395,
+            6.0452,
+            0.7819,
+            6.0384
+          ],
+          "spans": [
+            {
+              "offset": 1200,
+              "length": 134
+            }
+          ]
+        },
+        {
+          "content": "a entidades o transacciones reales.",
+          "polygon": [
+            0.7788,
+            6.0764,
+            2.4285,
+            6.0783,
+            2.4284,
+            6.1978,
+            0.7786,
+            6.1958
+          ],
+          "spans": [
+            {
+              "offset": 1335,
+              "length": 35
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1370
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "rowCount": 3,
+      "columnCount": 2,
+      "cells": [
+        {
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "FACTURA ELECTRÓNICA",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                5.1136,
+                0.7528,
+                7.1967,
+                0.7528,
+                7.1967,
+                0.9981,
+                5.1136,
+                0.9981
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 47,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                7.1967,
+                0.7528,
+                7.5505,
+                0.7528,
+                7.5505,
+                0.9981,
+                7.1967,
+                0.9981
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "E001-000358",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                5.1136,
+                0.9981,
+                7.1967,
+                0.9981,
+                7.1967,
+                1.2433,
+                5.1136,
+                1.2433
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 100,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                7.1967,
+                0.9981,
+                7.5505,
+                0.9981,
+                7.5505,
+                1.2433,
+                7.1967,
+                1.2433
+              ]
+            }
+          ],
+          "spans": []
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "RUC 20611122233",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                5.1136,
+                1.2433,
+                7.1967,
+                1.2433,
+                7.1967,
+                1.5,
+                5.1136,
+                1.5
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 172,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                7.1967,
+                1.2433,
+                7.5505,
+                1.2433,
+                7.5505,
+                1.5,
+                7.1967,
+                1.5
+              ]
+            }
+          ],
+          "spans": []
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            5.1176,
+            0.7335,
+            7.5517,
+            0.7316,
+            7.5536,
+            1.4964,
+            5.1186,
+            1.4977
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 47,
+          "length": 19
+        },
+        {
+          "offset": 100,
+          "length": 11
+        },
+        {
+          "offset": 172,
+          "length": 15
+        }
+      ]
+    },
+    {
+      "rowCount": 6,
+      "columnCount": 5,
+      "cells": [
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "Código",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.7092,
+                2.796,
+                1.4148,
+                2.796,
+                1.4148,
+                3.0355,
+                0.7092,
+                3.0284
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 466,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "Descripción",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.4148,
+                2.796,
+                4.8016,
+                2.796,
+                4.8016,
+                3.0284,
+                1.4148,
+                3.0355
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 473,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "content": "Cant.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                4.8016,
+                2.796,
+                5.5072,
+                2.796,
+                5.5072,
+                3.0284,
+                4.8016,
+                3.0284
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 485,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "content": "P. unitario",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                5.5072,
+                2.796,
+                6.4527,
+                2.7889,
+                6.4527,
+                3.0284,
+                5.5072,
+                3.0284
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 491,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "kind": "columnHeader",
+          "rowIndex": 0,
+          "columnIndex": 4,
+          "content": "Importe",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.4527,
+                2.7889,
+                7.5534,
+                2.7889,
+                7.5534,
+                3.0284,
+                6.4527,
+                3.0284
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 503,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "PL-CLA",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.7092,
+                3.0284,
+                1.4148,
+                3.0355,
+                1.4148,
+                3.2891,
+                0.7092,
+                3.2891
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 511,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "Plásticos tarjeta de crédito Clásica (chip + contactless)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.4148,
+                3.0355,
+                4.8016,
+                3.0284,
+                4.8016,
+                3.2891,
+                1.4148,
+                3.2891
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 518,
+              "length": 57
+            }
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "content": "5,000",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                4.8016,
+                3.0284,
+                5.5072,
+                3.0284,
+                5.5072,
+                3.2891,
+                4.8016,
+                3.2891
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 576,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "content": "S/ 4.80",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                5.5072,
+                3.0284,
+                6.4527,
+                3.0284,
+                6.4527,
+                3.2891,
+                5.5072,
+                3.2891
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 582,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 4,
+          "content": "S/ 24,000.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.4527,
+                3.0284,
+                7.5534,
+                3.0284,
+                7.5534,
+                3.2891,
+                6.4527,
+                3.2891
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 590,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "PL-ORO",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.7092,
+                3.2891,
+                1.4148,
+                3.2891,
+                1.4148,
+                3.5356,
+                0.7092,
+                3.5356
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 603,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "Plásticos tarjeta de crédito Oro (chip + contactless)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.4148,
+                3.2891,
+                4.8016,
+                3.2891,
+                4.8016,
+                3.5356,
+                1.4148,
+                3.5356
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 610,
+              "length": 53
+            }
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "content": "2,000",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                4.8016,
+                3.2891,
+                5.5072,
+                3.2891,
+                5.5072,
+                3.5356,
+                4.8016,
+                3.5356
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 664,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 3,
+          "content": "S/ 6.50",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                5.5072,
+                3.2891,
+                6.4527,
+                3.2891,
+                6.4527,
+                3.5356,
+                5.5072,
+                3.5356
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 670,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 4,
+          "content": "S/ 13,000.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.4527,
+                3.2891,
+                7.5534,
+                3.2891,
+                7.5534,
+                3.5356,
+                6.4527,
+                3.5356
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 678,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "content": "PL-PLA",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.7092,
+                3.5356,
+                1.4148,
+                3.5356,
+                1.4148,
+                3.7892,
+                0.7092,
+                3.7892
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 691,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "content": "Plásticos tarjeta de crédito Platinum (metalizado)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.4148,
+                3.5356,
+                4.8016,
+                3.5356,
+                4.7946,
+                3.7892,
+                1.4148,
+                3.7892
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 698,
+              "length": 50
+            }
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "content": "800",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                4.8016,
+                3.5356,
+                5.5072,
+                3.5356,
+                5.5072,
+                3.7892,
+                4.7946,
+                3.7892
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 749,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 3,
+          "content": "S/ 12.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                5.5072,
+                3.5356,
+                6.4527,
+                3.5356,
+                6.4527,
+                3.7892,
+                5.5072,
+                3.7892
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 753,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "rowIndex": 3,
+          "columnIndex": 4,
+          "content": "S/ 9,600.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.4527,
+                3.5356,
+                7.5534,
+                3.5356,
+                7.5534,
+                3.7892,
+                6.4527,
+                3.7892
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 762,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 0,
+          "content": "PL-BLK",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.7092,
+                3.7892,
+                1.4148,
+                3.7892,
+                1.4078,
+                4.0428,
+                0.7092,
+                4.0428
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 774,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 1,
+          "content": "Plásticos tarjeta de crédito Black (metal)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.4148,
+                3.7892,
+                4.7946,
+                3.7892,
+                4.7946,
+                4.0428,
+                1.4078,
+                4.0428
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 781,
+              "length": 42
+            }
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 2,
+          "content": "150",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                4.7946,
+                3.7892,
+                5.5072,
+                3.7892,
+                5.5072,
+                4.0428,
+                4.7946,
+                4.0428
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 824,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 3,
+          "content": "S/ 45.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                5.5072,
+                3.7892,
+                6.4527,
+                3.7892,
+                6.4527,
+                4.0428,
+                5.5072,
+                4.0428
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 828,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "rowIndex": 4,
+          "columnIndex": 4,
+          "content": "S/ 6,750.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.4527,
+                3.7892,
+                7.5534,
+                3.7892,
+                7.5534,
+                4.0428,
+                6.4527,
+                4.0428
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 837,
+              "length": 11
+            }
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 0,
+          "content": "KT-BIE",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.7092,
+                4.0428,
+                1.4078,
+                4.0428,
+                1.4078,
+                4.2893,
+                0.7022,
+                4.2893
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 849,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 1,
+          "content": "Kit de bienvenida impreso (sobre, carta y folleto)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.4078,
+                4.0428,
+                4.7946,
+                4.0428,
+                4.7946,
+                4.2893,
+                1.4078,
+                4.2893
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 856,
+              "length": 50
+            }
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 2,
+          "content": "7,950",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                4.7946,
+                4.0428,
+                5.5072,
+                4.0428,
+                5.5072,
+                4.2893,
+                4.7946,
+                4.2893
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 907,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 3,
+          "content": "S/ 1.20",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                5.5072,
+                4.0428,
+                6.4527,
+                4.0428,
+                6.4527,
+                4.2893,
+                5.5072,
+                4.2893
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 913,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "rowIndex": 5,
+          "columnIndex": 4,
+          "content": "S/ 9,540.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.4527,
+                4.0428,
+                7.5534,
+                4.0428,
+                7.5534,
+                4.2893,
+                6.4527,
+                4.2893
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 921,
+              "length": 11
+            }
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            0.6981,
+            2.7889,
+            7.5574,
+            2.7903,
+            7.5573,
+            4.3106,
+            0.6978,
+            4.3086
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 466,
+          "length": 466
+        }
+      ]
+    },
+    {
+      "rowCount": 3,
+      "columnCount": 2,
+      "cells": [
+        {
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "content": "Op. gravada (subtotal)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                4.229,
+                4.3973,
+                6.118,
+                4.3973,
+                6.118,
+                4.654,
+                4.2233,
+                4.654
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 933,
+              "length": 22
+            }
+          ]
+        },
+        {
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "content": "S/ 62,890.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.118,
+                4.3973,
+                7.482,
+                4.403,
+                7.482,
+                4.654,
+                6.118,
+                4.654
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 956,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "content": "IGV (18%)",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                4.2233,
+                4.654,
+                6.118,
+                4.654,
+                6.118,
+                4.9049,
+                4.2233,
+                4.8992
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 969,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "content": "S/ 11,320.20",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.118,
+                4.654,
+                7.482,
+                4.654,
+                7.482,
+                4.9049,
+                6.118,
+                4.9049
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 979,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "content": "IMPORTE TOTAL",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                4.2233,
+                4.8992,
+                6.118,
+                4.9049,
+                6.118,
+                5.1445,
+                4.2176,
+                5.1445
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 992,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "content": "S/ 74,210.20",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.118,
+                4.9049,
+                7.482,
+                4.9049,
+                7.482,
+                5.1445,
+                6.118,
+                5.1445
+              ]
+            }
+          ],
+          "spans": [
+            {
+              "offset": 1006,
+              "length": 12
+            }
+          ]
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            4.2349,
+            4.4195,
+            7.4993,
+            4.4193,
+            7.5003,
+            5.1322,
+            4.2359,
+            5.1324
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 933,
+          "length": 85
+        }
+      ]
+    }
+  ],
+  "styles": [],
+  "documents": [
+    {
+      "docType": "invoice",
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            0,
+            0,
+            8.2639,
+            0,
+            8.2639,
+            11.6806,
+            0,
+            11.6806
+          ]
+        }
+      ],
+      "fields": {
+        "CustomerAddress": {
+          "type": "address",
+          "content": "Av. Javier Prado Este 1234, San Isidro, Lima",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.431,
+                2.202,
+                3.9323,
+                2.2032,
+                3.9322,
+                2.3552,
+                1.4309,
+                2.3541
+              ]
+            }
+          ],
+          "confidence": 0.886,
+          "spans": [
+            {
+              "offset": 306,
+              "length": 44
+            }
+          ],
+          "valueAddress": {
+            "road": "Av. Javier Prado Este",
+            "postalCode": "1234",
+            "city": "San Isidro",
+            "state": "Lima",
+            "streetAddress": "Av. Javier Prado Este"
+          }
+        },
+        "CustomerAddressRecipient": {
+          "type": "string",
+          "valueString": "BancAnalytics S.A.",
+          "content": "BancAnalytics S.A.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.2884,
+                1.71,
+                2.3399,
+                1.7087,
+                2.3401,
+                1.8572,
+                1.2886,
+                1.8585
+              ]
+            }
+          ],
+          "confidence": 0.926,
+          "spans": [
+            {
+              "offset": 197,
+              "length": 18
+            }
+          ]
+        },
+        "CustomerName": {
+          "type": "string",
+          "valueString": "BancAnalytics S.A.",
+          "content": "BancAnalytics S.A.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.2884,
+                1.71,
+                2.3399,
+                1.7087,
+                2.3401,
+                1.8572,
+                1.2886,
+                1.8585
+              ]
+            }
+          ],
+          "confidence": 0.926,
+          "spans": [
+            {
+              "offset": 197,
+              "length": 18
+            }
+          ]
+        },
+        "CustomerTaxId": {
+          "type": "string",
+          "valueString": "20600000001",
+          "content": "20600000001",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.1372,
+                1.9569,
+                1.9005,
+                1.9545,
+                1.9005,
+                2.093,
+                1.1367,
+                2.0931
+              ]
+            }
+          ],
+          "confidence": 0.945,
+          "spans": [
+            {
+              "offset": 250,
+              "length": 11
+            }
+          ]
+        },
+        "DueDate": {
+          "type": "date",
+          "valueDate": "2026-12-05",
+          "content": "05/12/2026",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.1088,
+                1.9566,
+                6.7401,
+                1.954,
+                6.7401,
+                2.0944,
+                6.1086,
+                2.0958
+              ]
+            }
+          ],
+          "confidence": 0.939,
+          "spans": [
+            {
+              "offset": 284,
+              "length": 10
+            }
+          ]
+        },
+        "InvoiceDate": {
+          "type": "date",
+          "valueDate": "2026-11-05",
+          "content": "05/11/2026",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                5.8495,
+                1.7108,
+                6.489,
+                1.7098,
+                6.489,
+                1.847,
+                5.8494,
+                1.8497
+              ]
+            }
+          ],
+          "confidence": 0.926,
+          "spans": [
+            {
+              "offset": 234,
+              "length": 10
+            }
+          ]
+        },
+        "InvoiceId": {
+          "type": "string",
+          "valueString": "E001-000358",
+          "content": "E001-000358",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                5.1934,
+                1.0588,
+                5.9639,
+                1.0584,
+                5.9639,
+                1.1863,
+                5.1933,
+                1.1863
+              ]
+            }
+          ],
+          "confidence": 0.939,
+          "spans": [
+            {
+              "offset": 100,
+              "length": 11
+            }
+          ]
+        },
+        "InvoiceTotal": {
+          "type": "currency",
+          "valueCurrency": {
+            "currencySymbol": "S/",
+            "amount": 74210.2,
+            "currencyCode": "PEN"
+          },
+          "content": "S/ 74,210.20",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.6301,
+                4.9557,
+                7.3959,
+                4.9561,
+                7.3958,
+                5.1076,
+                6.63,
+                5.1071
+              ]
+            }
+          ],
+          "confidence": 0.831,
+          "spans": [
+            {
+              "offset": 1006,
+              "length": 12
+            }
+          ]
+        },
+        "Items": {
+          "type": "array",
+          "valueArray": [
+            {
+              "type": "object",
+              "valueObject": {
+                "Amount": {
+                  "type": "currency",
+                  "valueCurrency": {
+                    "currencySymbol": "S/",
+                    "amount": 24000.0,
+                    "currencyCode": "PEN"
+                  },
+                  "content": "S/ 24,000.00",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        6.7582,
+                        3.0979,
+                        7.4823,
+                        3.0997,
+                        7.482,
+                        3.2399,
+                        6.7579,
+                        3.2381
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 590,
+                      "length": 12
+                    }
+                  ]
+                },
+                "Description": {
+                  "type": "string",
+                  "valueString": "Plásticos tarjeta de crédito Clásica (chip + contactless)",
+                  "content": "Plásticos tarjeta de crédito Clásica (chip + contactless)",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        1.4886,
+                        3.0926,
+                        4.5315,
+                        3.0946,
+                        4.5314,
+                        3.2523,
+                        1.4885,
+                        3.2503
+                      ]
+                    }
+                  ],
+                  "confidence": 0.955,
+                  "spans": [
+                    {
+                      "offset": 518,
+                      "length": 57
+                    }
+                  ]
+                },
+                "ProductCode": {
+                  "type": "string",
+                  "valueString": "PL-CLA",
+                  "content": "PL-CLA",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        0.7828,
+                        3.0985,
+                        1.2384,
+                        3.0999,
+                        1.2384,
+                        3.2329,
+                        0.7833,
+                        3.2335
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 511,
+                      "length": 6
+                    }
+                  ]
+                },
+                "Quantity": {
+                  "type": "number",
+                  "valueNumber": 5000,
+                  "content": "5,000",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        5.1059,
+                        3.1031,
+                        5.4322,
+                        3.1023,
+                        5.4318,
+                        3.2368,
+                        5.1057,
+                        3.2383
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 576,
+                      "length": 5
+                    }
+                  ]
+                },
+                "UnitPrice": {
+                  "type": "currency",
+                  "valueCurrency": {
+                    "currencySymbol": "S/",
+                    "amount": 4.8,
+                    "currencyCode": "PEN"
+                  },
+                  "content": "S/ 4.80",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        5.9655,
+                        3.1014,
+                        6.3753,
+                        3.103,
+                        6.3748,
+                        3.2319,
+                        5.965,
+                        3.2303
+                      ]
+                    }
+                  ],
+                  "confidence": 0.954,
+                  "spans": [
+                    {
+                      "offset": 582,
+                      "length": 7
+                    }
+                  ]
+                }
+              },
+              "content": "PL-CLA\nPlásticos tarjeta de crédito Clásica (chip + contactless)\n5,000\nS/ 4.80\nS/ 24,000.00",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.7828,
+                    3.092,
+                    7.4821,
+                    3.0973,
+                    7.482,
+                    3.2549,
+                    0.7827,
+                    3.2496
+                  ]
+                }
+              ],
+              "confidence": 0.922,
+              "spans": [
+                {
+                  "offset": 511,
+                  "length": 91
+                }
+              ]
+            },
+            {
+              "type": "object",
+              "valueObject": {
+                "Amount": {
+                  "type": "currency",
+                  "valueCurrency": {
+                    "currencySymbol": "S/",
+                    "amount": 13000.0,
+                    "currencyCode": "PEN"
+                  },
+                  "content": "S/ 13,000.00",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        6.7554,
+                        3.3491,
+                        7.4823,
+                        3.3506,
+                        7.482,
+                        3.4908,
+                        6.7551,
+                        3.4893
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 678,
+                      "length": 12
+                    }
+                  ]
+                },
+                "Description": {
+                  "type": "string",
+                  "valueString": "Plásticos tarjeta de crédito Oro (chip + contactless)",
+                  "content": "Plásticos tarjeta de crédito Oro (chip + contactless)",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        1.4882,
+                        3.3434,
+                        4.3261,
+                        3.3455,
+                        4.326,
+                        3.5032,
+                        1.4881,
+                        3.5011
+                      ]
+                    }
+                  ],
+                  "confidence": 0.955,
+                  "spans": [
+                    {
+                      "offset": 610,
+                      "length": 53
+                    }
+                  ]
+                },
+                "ProductCode": {
+                  "type": "string",
+                  "valueString": "PL-ORO",
+                  "content": "PL-ORO",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        0.7821,
+                        3.3482,
+                        1.2784,
+                        3.3492,
+                        1.2784,
+                        3.4834,
+                        0.7826,
+                        3.4829
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 603,
+                      "length": 6
+                    }
+                  ]
+                },
+                "Quantity": {
+                  "type": "number",
+                  "valueNumber": 2000,
+                  "content": "2,000",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        5.104,
+                        3.3544,
+                        5.4332,
+                        3.3529,
+                        5.4332,
+                        3.4877,
+                        5.104,
+                        3.4891
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 664,
+                      "length": 5
+                    }
+                  ]
+                },
+                "UnitPrice": {
+                  "type": "currency",
+                  "valueCurrency": {
+                    "currencySymbol": "S/",
+                    "amount": 6.5,
+                    "currencyCode": "PEN"
+                  },
+                  "content": "S/ 6.50",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        5.9659,
+                        3.3512,
+                        6.3757,
+                        3.3539,
+                        6.3748,
+                        3.4839,
+                        5.965,
+                        3.4812
+                      ]
+                    }
+                  ],
+                  "confidence": 0.954,
+                  "spans": [
+                    {
+                      "offset": 670,
+                      "length": 7
+                    }
+                  ]
+                }
+              },
+              "content": "PL-ORO\nPlásticos tarjeta de crédito Oro (chip + contactless)\n2,000\nS/ 6.50\nS/ 13,000.00",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.7821,
+                    3.3401,
+                    7.4822,
+                    3.3502,
+                    7.482,
+                    3.5094,
+                    0.7819,
+                    3.4992
+                  ]
+                }
+              ],
+              "confidence": 0.922,
+              "spans": [
+                {
+                  "offset": 603,
+                  "length": 87
+                }
+              ]
+            },
+            {
+              "type": "object",
+              "valueObject": {
+                "Amount": {
+                  "type": "currency",
+                  "valueCurrency": {
+                    "currencySymbol": "S/",
+                    "amount": 9600.0,
+                    "currencyCode": "PEN"
+                  },
+                  "content": "S/ 9,600.00",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        6.824,
+                        3.5959,
+                        7.482,
+                        3.5959,
+                        7.482,
+                        3.7338,
+                        6.824,
+                        3.7338
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 762,
+                      "length": 11
+                    }
+                  ]
+                },
+                "Description": {
+                  "type": "string",
+                  "valueString": "Plásticos tarjeta de crédito Platinum (metalizado)",
+                  "content": "Plásticos tarjeta de crédito Platinum (metalizado)",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        1.4875,
+                        3.5854,
+                        4.2179,
+                        3.5901,
+                        4.2176,
+                        3.7484,
+                        1.4872,
+                        3.7436
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 698,
+                      "length": 50
+                    }
+                  ]
+                },
+                "ProductCode": {
+                  "type": "string",
+                  "valueString": "PL-PLA",
+                  "content": "PL-PLA",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        0.7817,
+                        3.5951,
+                        1.2327,
+                        3.5969,
+                        1.2327,
+                        3.7264,
+                        0.7821,
+                        3.7263
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 691,
+                      "length": 6
+                    }
+                  ]
+                },
+                "Quantity": {
+                  "type": "number",
+                  "valueNumber": 800,
+                  "content": "800",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        5.2095,
+                        3.6015,
+                        5.4332,
+                        3.6025,
+                        5.4331,
+                        3.7232,
+                        5.2091,
+                        3.7243
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 749,
+                      "length": 3
+                    }
+                  ]
+                },
+                "UnitPrice": {
+                  "type": "currency",
+                  "valueCurrency": {
+                    "currencySymbol": "S/",
+                    "amount": 12.0,
+                    "currencyCode": "PEN"
+                  },
+                  "content": "S/ 12.00",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        5.8993,
+                        3.5948,
+                        6.3755,
+                        3.5975,
+                        6.3748,
+                        3.7286,
+                        5.8986,
+                        3.7259
+                      ]
+                    }
+                  ],
+                  "confidence": 0.954,
+                  "spans": [
+                    {
+                      "offset": 753,
+                      "length": 8
+                    }
+                  ]
+                }
+              },
+              "content": "PL-PLA\nPlásticos tarjeta de crédito Platinum (metalizado)\n800\nS/ 12.00\nS/ 9,600.00",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.7817,
+                    3.5841,
+                    7.4822,
+                    3.5958,
+                    7.482,
+                    3.7541,
+                    0.7814,
+                    3.7424
+                  ]
+                }
+              ],
+              "confidence": 0.922,
+              "spans": [
+                {
+                  "offset": 691,
+                  "length": 82
+                }
+              ]
+            },
+            {
+              "type": "object",
+              "valueObject": {
+                "Amount": {
+                  "type": "currency",
+                  "valueCurrency": {
+                    "currencySymbol": "S/",
+                    "amount": 6750.0,
+                    "currencyCode": "PEN"
+                  },
+                  "content": "S/ 6,750.00",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        6.8236,
+                        3.8469,
+                        7.48,
+                        3.8464,
+                        7.4801,
+                        3.9867,
+                        6.8237,
+                        3.9872
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 837,
+                      "length": 11
+                    }
+                  ]
+                },
+                "Description": {
+                  "type": "string",
+                  "valueString": "Plásticos tarjeta de crédito Black (metal)",
+                  "content": "Plásticos tarjeta de crédito Black (metal)",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        1.4856,
+                        3.839,
+                        3.7326,
+                        3.8424,
+                        3.7324,
+                        3.9988,
+                        1.4854,
+                        3.9954
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 781,
+                      "length": 42
+                    }
+                  ]
+                },
+                "ProductCode": {
+                  "type": "string",
+                  "valueString": "PL-BLK",
+                  "content": "PL-BLK",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        0.7829,
+                        3.8463,
+                        1.2327,
+                        3.8483,
+                        1.2327,
+                        3.9777,
+                        0.7833,
+                        3.9776
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 774,
+                      "length": 6
+                    }
+                  ]
+                },
+                "Quantity": {
+                  "type": "number",
+                  "valueNumber": 150,
+                  "content": "150",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        5.2186,
+                        3.8525,
+                        5.4332,
+                        3.852,
+                        5.4332,
+                        3.9751,
+                        5.2185,
+                        3.9753
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 824,
+                      "length": 3
+                    }
+                  ]
+                },
+                "UnitPrice": {
+                  "type": "currency",
+                  "valueCurrency": {
+                    "currencySymbol": "S/",
+                    "amount": 45.0,
+                    "currencyCode": "PEN"
+                  },
+                  "content": "S/ 45.00",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        5.8982,
+                        3.8463,
+                        6.3755,
+                        3.8489,
+                        6.3748,
+                        3.9811,
+                        5.8975,
+                        3.9785
+                      ]
+                    }
+                  ],
+                  "confidence": 0.953,
+                  "spans": [
+                    {
+                      "offset": 828,
+                      "length": 8
+                    }
+                  ]
+                }
+              },
+              "content": "PL-BLK\nPlásticos tarjeta de crédito Black (metal)\n150\nS/ 45.00\nS/ 6,750.00",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.7829,
+                    3.8363,
+                    7.48,
+                    3.8464,
+                    7.4798,
+                    4.0045,
+                    0.7827,
+                    3.9943
+                  ]
+                }
+              ],
+              "confidence": 0.922,
+              "spans": [
+                {
+                  "offset": 774,
+                  "length": 74
+                }
+              ]
+            },
+            {
+              "type": "object",
+              "valueObject": {
+                "Amount": {
+                  "type": "currency",
+                  "valueCurrency": {
+                    "currencySymbol": "S/",
+                    "amount": 9540.0,
+                    "currencyCode": "PEN"
+                  },
+                  "content": "S/ 9,540.00",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        6.8227,
+                        4.0969,
+                        7.482,
+                        4.097,
+                        7.482,
+                        4.2363,
+                        6.8227,
+                        4.2361
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 921,
+                      "length": 11
+                    }
+                  ]
+                },
+                "Description": {
+                  "type": "string",
+                  "valueString": "Kit de bienvenida impreso (sobre, carta y folleto)",
+                  "content": "Kit de bienvenida impreso (sobre, carta y folleto)",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        1.4833,
+                        4.087,
+                        4.1836,
+                        4.0922,
+                        4.1833,
+                        4.2547,
+                        1.483,
+                        4.2495
+                      ]
+                    }
+                  ],
+                  "confidence": 0.955,
+                  "spans": [
+                    {
+                      "offset": 856,
+                      "length": 50
+                    }
+                  ]
+                },
+                "ProductCode": {
+                  "type": "string",
+                  "valueString": "KT-BIE",
+                  "content": "KT-BIE",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        0.7802,
+                        4.0974,
+                        1.2042,
+                        4.0986,
+                        1.2042,
+                        4.2262,
+                        0.7802,
+                        4.2262
+                      ]
+                    }
+                  ],
+                  "confidence": 0.955,
+                  "spans": [
+                    {
+                      "offset": 849,
+                      "length": 6
+                    }
+                  ]
+                },
+                "Quantity": {
+                  "type": "number",
+                  "valueNumber": 7950,
+                  "content": "7,950",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        5.1056,
+                        4.1001,
+                        5.4332,
+                        4.1009,
+                        5.4332,
+                        4.2334,
+                        5.1055,
+                        4.2347
+                      ]
+                    }
+                  ],
+                  "confidence": 0.956,
+                  "spans": [
+                    {
+                      "offset": 907,
+                      "length": 5
+                    }
+                  ]
+                },
+                "UnitPrice": {
+                  "type": "currency",
+                  "valueCurrency": {
+                    "currencySymbol": "S/",
+                    "amount": 1.2,
+                    "currencyCode": "PEN"
+                  },
+                  "content": "S/ 1.20",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        5.9652,
+                        4.0983,
+                        6.3791,
+                        4.1009,
+                        6.3783,
+                        4.2311,
+                        5.9644,
+                        4.2285
+                      ]
+                    }
+                  ],
+                  "confidence": 0.953,
+                  "spans": [
+                    {
+                      "offset": 913,
+                      "length": 7
+                    }
+                  ]
+                }
+              },
+              "content": "KT-BIE\nKit de bienvenida impreso (sobre, carta y folleto)\n7,950\nS/ 1.20\nS/ 9,540.00",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.7802,
+                    4.0874,
+                    7.4822,
+                    4.0969,
+                    7.482,
+                    4.259,
+                    0.78,
+                    4.2495
+                  ]
+                }
+              ],
+              "confidence": 0.922,
+              "spans": [
+                {
+                  "offset": 849,
+                  "length": 83
+                }
+              ]
+            }
+          ]
+        },
+        "PurchaseOrder": {
+          "type": "string",
+          "valueString": "OC-BCA-2026-0457",
+          "content": "OC-BCA-2026-0457",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                5.8379,
+                2.2053,
+                6.9684,
+                2.202,
+                6.9684,
+                2.3495,
+                5.8377,
+                2.3539
+              ]
+            }
+          ],
+          "confidence": 0.938,
+          "spans": [
+            {
+              "offset": 368,
+              "length": 16
+            }
+          ]
+        },
+        "SubTotal": {
+          "type": "currency",
+          "valueCurrency": {
+            "currencySymbol": "S/",
+            "amount": 62890.0,
+            "currencyCode": "PEN"
+          },
+          "content": "S/ 62,890.00",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.632,
+                4.4555,
+                7.3966,
+                4.4564,
+                7.3964,
+                4.6035,
+                6.6318,
+                4.6026
+              ]
+            }
+          ],
+          "confidence": 0.928,
+          "spans": [
+            {
+              "offset": 956,
+              "length": 12
+            }
+          ]
+        },
+        "TaxDetails": {
+          "type": "array",
+          "valueArray": [
+            {
+              "type": "object",
+              "valueObject": {
+                "Amount": {
+                  "type": "currency",
+                  "valueCurrency": {
+                    "currencySymbol": "S/",
+                    "amount": 11320.2,
+                    "currencyCode": "PEN"
+                  },
+                  "content": "S/ 11,320.20",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        6.6323,
+                        4.7055,
+                        7.3966,
+                        4.7066,
+                        7.3964,
+                        4.8546,
+                        6.6321,
+                        4.8535
+                      ]
+                    }
+                  ],
+                  "confidence": 0.957,
+                  "spans": [
+                    {
+                      "offset": 979,
+                      "length": 12
+                    }
+                  ]
+                },
+                "Rate": {
+                  "type": "string",
+                  "valueString": "(18%)",
+                  "content": "(18%)",
+                  "boundingRegions": [
+                    {
+                      "pageNumber": 1,
+                      "polygon": [
+                        4.5732,
+                        4.7041,
+                        4.9481,
+                        4.7055,
+                        4.9481,
+                        4.865,
+                        4.5729,
+                        4.8634
+                      ]
+                    }
+                  ],
+                  "confidence": 0.957,
+                  "spans": [
+                    {
+                      "offset": 973,
+                      "length": 5
+                    }
+                  ]
+                }
+              },
+              "content": "IGV (18%)\nS/ 11,320.20",
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    4.3226,
+                    4.702,
+                    7.3966,
+                    4.7066,
+                    7.3964,
+                    4.8686,
+                    4.3224,
+                    4.8641
+                  ]
+                }
+              ],
+              "confidence": 0.917,
+              "spans": [
+                {
+                  "offset": 969,
+                  "length": 22
+                }
+              ]
+            }
+          ]
+        },
+        "TotalTax": {
+          "type": "currency",
+          "valueCurrency": {
+            "currencySymbol": "S/",
+            "amount": 11320.2,
+            "currencyCode": "PEN"
+          },
+          "content": "S/ 11,320.20",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.6323,
+                4.7055,
+                7.3966,
+                4.7066,
+                7.3964,
+                4.8546,
+                6.6321,
+                4.8535
+              ]
+            }
+          ],
+          "confidence": 0.937,
+          "spans": [
+            {
+              "offset": 979,
+              "length": 12
+            }
+          ]
+        },
+        "VendorAddress": {
+          "type": "address",
+          "content": "Av. Argentina 2450, Callao, Perú",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.7797,
+                1.103,
+                2.6196,
+                1.0996,
+                2.6199,
+                1.2496,
+                0.78,
+                1.2531
+              ]
+            }
+          ],
+          "confidence": 0.916,
+          "spans": [
+            {
+              "offset": 67,
+              "length": 32
+            }
+          ],
+          "valueAddress": {
+            "houseNumber": "2450",
+            "road": "Av. Argentina",
+            "city": "Callao",
+            "countryRegion": "Perú",
+            "streetAddress": "2450 Av. Argentina"
+          }
+        },
+        "VendorAddressRecipient": {
+          "type": "string",
+          "valueString": "PLÁSTICOS ANDINOS CARD S.A.C.",
+          "content": "PLÁSTICOS ANDINOS CARD S.A.C.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.7814,
+                0.7554,
+                2.9222,
+                0.7587,
+                2.922,
+                0.9045,
+                0.7812,
+                0.9011
+              ]
+            }
+          ],
+          "confidence": 0.912,
+          "spans": [
+            {
+              "offset": 0,
+              "length": 29
+            }
+          ]
+        },
+        "VendorName": {
+          "type": "string",
+          "valueString": "PLÁSTICOS ANDINOS CARD S.A.C.",
+          "content": "PLÁSTICOS ANDINOS CARD S.A.C.",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.7814,
+                0.7554,
+                2.9222,
+                0.7587,
+                2.922,
+                0.9045,
+                0.7812,
+                0.9011
+              ]
+            }
+          ],
+          "confidence": 0.912,
+          "spans": [
+            {
+              "offset": 0,
+              "length": 29
+            }
+          ]
+        },
+        "VendorTaxId": {
+          "type": "string",
+          "valueString": "20611122233",
+          "content": "20611122233",
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                1.1279,
+                0.9304,
+                1.9056,
+                0.9318,
+                1.9053,
+                1.0635,
+                1.1277,
+                1.0665
+              ]
+            }
+          ],
+          "confidence": 0.943,
+          "spans": [
+            {
+              "offset": 35,
+              "length": 11
+            }
+          ]
+        }
+      },
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 1370
+        }
+      ]
+    }
+  ],
+  "contentFormat": "text"
+}
