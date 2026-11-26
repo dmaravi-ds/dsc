@@ -6,3 +6,9 @@ azure-search-documents==12.1.0b2
 azure-ai-documentintelligence==1.0.2
 azure-ai-contentsafety==1.0.0
 reportlab==4.2.5
+# laboratorio-03 · RAG con embeddings de Azure y ChromaDB local
+agent-framework-openai
+azure-identity
+chromadb==1.5.9
+pypdf
+pandas
