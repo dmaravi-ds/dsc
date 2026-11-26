@@ -1,0 +1,10 @@
+{
+  "notebook_origen": "laboratorio-02.ipynb",
+  "sha256_origen": "43839c1be70aad7d2ba9a1de256101d67da5cfb072dd832e3f9f18cfa4a0ce6c",
+  "agente": "CopilotoAsesorBancAnalytics",
+  "ajustes": [
+    "KB completa sustituida por contexto RAG",
+    "retirado ejemplo factual de Platinum",
+    "añadidas reglas de evidencia documental; rol y restricciones conservados"
+  ]
+}

@@ -1,0 +1,356 @@
+[
+  {
+    "id": "RAG-01",
+    "tipo": "Pregunta directa",
+    "pregunta": "¿Cuál es el ingreso mínimo mensual de la tarjeta Platinum?",
+    "filtro": null,
+    "chunk_esperado": "bca-tc-03",
+    "datos": [
+      "6000"
+    ],
+    "esperado": "S/ 6,000 mensuales, con cita de la tabla de variantes.",
+    "fragmentos": [
+      {
+        "id": "bca-tc-03",
+        "text": "Tarjeta de Crédito - Variantes de plástico\n\n## Variantes de plástico\n\n\n<table>\n<tr>\n<th>Característica</th>\n<th>Clásica</th>\n<th>Oro</th>\n<th>Platinum</th>\n<th>Black</th>\n</tr>\n<tr>\n<td>Ingreso mínimo mensual</td>\n<td>S/ 1,200</td>\n<td>S/ 3,000</td>\n<td>S/ 6,000</td>\n<td>S/ 15,000</td>\n</tr>\n<tr>\n<td>Línea de crédito</td>\n<td>S/ 500 -6,000</td>\n<td>S/ 3,000 - 15,000</td>\n<td>S/ 10,000 - 40,000</td>\n<td>Desde S/ 40,000</td>\n</tr>\n<tr>\n<td>Membresía anual</td>\n<td>S/ 0</td>\n<td>S/ 120 (exonerable)</td>\n<td>S/ 240 (exonerable)</td>\n<td>S/ 600 (exonerable)</td>\n</tr>\n<tr>\n<td>TEA compras (ref.)</td>\n<td>79.9%</td>\n<td>69.9%</td>\n<td>54.9%</td>\n<td>39.9%</td>\n</tr>\n<tr>\n<td>Puntos por cada S/ 1</td>\n<td>1 pto. x S/ 5</td>\n<td>1 pto. x S/ 3</td>\n<td>1 pto. x S/ 2</td>\n<td>1 pto. x S/ 1</td>\n</tr>\n<tr>\n<td>Cashback</td>\n<td>—</td>\n<td>1% en supermercados</td>\n<td>2% supermercados y grifos</td>\n<td>3% en restaurantes y viajes</td>\n</tr>\n<tr>\n<td>Salas VIP aeropuerto</td>\n<td>—</td>\n<td>—</td>\n<td>4 accesos/año</td>\n<td>Ilimitado + 1 invitado</td>\n</tr>\n<tr>\n<td>Seguro de viaje</td>\n<td>—</td>\n<td>—</td>\n<td>Incluido</td>\n<td>Incluido (cobertura ampliada)</td>\n</tr>\n<tr>\n<td>Otros beneficios</td>\n<td>Cuotas sin intereses en comercios aliados</td>\n<td>Descuentos en cines y delivery</td>\n<td>Concierge 24/7</td>\n<td>Asesor dedicado y eventos exclusivos</td>\n</tr>\n</table>\n\nExoneración de membresía: consumos de / 1,500(Or), S/3,000(Platinum) /6,000(Black) en el año membresía.",
+        "metadata": {
+          "titulo": "Tarjeta de Crédito - Variantes de plástico",
+          "numero_chunk": 3,
+          "paginas": "1",
+          "tipo_documento": "Ficha de producto",
+          "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+          "categoria": "Tarjeta de Crédito",
+          "sintetico": true
+        },
+        "distancia": 0.367722749710083
+      },
+      {
+        "id": "bca-tc-06",
+        "text": "Tarjeta de Crédito - ¿Qué variante ofrecer? (guía para el asesor)\n\n### ¿Qué variante ofrecer? (guía para el asesor)\n\n· Clásica: primera tarjeta, jóvenes profesionales, clientes que buscan cero membresía.\n\n· Oro: gasto frecuente en supermercado y entretenimiento.\n\n· Platinum: clientes que viajan 1-2 veces al año y gastan en grifos y supermercados.\n\n· Black: alto ingreso, viajero frecuente, valora atención personalizada.\n\n· Si el cliente ya tiene una oferta de tarjeta en su perfil, priorizar la variante y línea indicadas en la oferta.",
+        "metadata": {
+          "paginas": "1",
+          "numero_chunk": 6,
+          "tipo_documento": "Ficha de producto",
+          "titulo": "Tarjeta de Crédito - ¿Qué variante ofrecer? (guía para el asesor)",
+          "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+          "categoria": "Tarjeta de Crédito",
+          "sintetico": true
+        },
+        "distancia": 0.4538322687149048
+      },
+      {
+        "id": "bca-tc-05",
+        "text": "Tarjeta de Crédito - Requisitos\n\n### Requisitos\n\n· Persona natural de 21 a 75 años, peruana o extranjera residente con documento vigente.\n\n· Ingreso mínimo según variante. Dependiente: últimas 2 boletas o cliente con abono de sueldo en BancAnalytics.\nIndependiente: últimas 3 declaraciones o recibos por honorarios.\n\n· Buena calificación en centrales de riesgo (Normal en la SBS) y evaluación crediticia aprobada.",
+        "metadata": {
+          "categoria": "Tarjeta de Crédito",
+          "numero_chunk": 5,
+          "tipo_documento": "Ficha de producto",
+          "sintetico": true,
+          "paginas": "1",
+          "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+          "titulo": "Tarjeta de Crédito - Requisitos"
+        },
+        "distancia": 0.5100376605987549
+      }
+    ],
+    "respuesta": "ALCANCE: EN_ALCANCE\n\n### 1) Resumen de la consulta\nEl asesor consulta el ingreso mínimo mensual requerido para la Tarjeta de Crédito Platinum.\n\n### 2) Respuesta para el asesor\nEl ingreso mínimo mensual para la Tarjeta de Crédito **Platinum es S/ 6,000**.\n\n### 3) Mensaje sugerido para el cliente\n“Para acceder a la Tarjeta de Crédito Platinum, el ingreso mínimo mensual requerido es de S/ 6,000, sujeto a evaluación crediticia y demás requisitos aplicables.”\n\n### 4) Oportunidades de oferta\nNinguna.\n\n### 5) Fuentes\n- [bca-tc-03 | 02_BancAnalytics_Tarjeta_de_Credito.pdf | pág. 1]",
+    "memoria": {
+      "almacenados": 4,
+      "excluidos": 0,
+      "resumenes": 0
+    },
+    "evaluacion": "correcto",
+    "justificacion": "Cumple todas las comprobaciones explícitas del caso.",
+    "comprobaciones": {
+      "alcance": true,
+      "chunk_correcto_recuperado": true,
+      "cita_id": true,
+      "cita_pdf": true,
+      "dato_esperado": true
+    },
+    "metodo_evaluacion": "Reglas explícitas; respuesta y fuentes disponibles para revisión humana."
+  },
+  {
+    "id": "RAG-02",
+    "tipo": "Pregunta reformulada",
+    "pregunta": "¿Cuánto debe ganar al mes alguien para acceder al plástico Platinum?",
+    "filtro": null,
+    "chunk_esperado": "bca-tc-03",
+    "datos": [
+      "6000"
+    ],
+    "esperado": "El mismo ingreso mínimo, aunque cambien las palabras.",
+    "fragmentos": [
+      {
+        "id": "bca-tc-03",
+        "text": "Tarjeta de Crédito - Variantes de plástico\n\n## Variantes de plástico\n\n\n<table>\n<tr>\n<th>Característica</th>\n<th>Clásica</th>\n<th>Oro</th>\n<th>Platinum</th>\n<th>Black</th>\n</tr>\n<tr>\n<td>Ingreso mínimo mensual</td>\n<td>S/ 1,200</td>\n<td>S/ 3,000</td>\n<td>S/ 6,000</td>\n<td>S/ 15,000</td>\n</tr>\n<tr>\n<td>Línea de crédito</td>\n<td>S/ 500 -6,000</td>\n<td>S/ 3,000 - 15,000</td>\n<td>S/ 10,000 - 40,000</td>\n<td>Desde S/ 40,000</td>\n</tr>\n<tr>\n<td>Membresía anual</td>\n<td>S/ 0</td>\n<td>S/ 120 (exonerable)</td>\n<td>S/ 240 (exonerable)</td>\n<td>S/ 600 (exonerable)</td>\n</tr>\n<tr>\n<td>TEA compras (ref.)</td>\n<td>79.9%</td>\n<td>69.9%</td>\n<td>54.9%</td>\n<td>39.9%</td>\n</tr>\n<tr>\n<td>Puntos por cada S/ 1</td>\n<td>1 pto. x S/ 5</td>\n<td>1 pto. x S/ 3</td>\n<td>1 pto. x S/ 2</td>\n<td>1 pto. x S/ 1</td>\n</tr>\n<tr>\n<td>Cashback</td>\n<td>—</td>\n<td>1% en supermercados</td>\n<td>2% supermercados y grifos</td>\n<td>3% en restaurantes y viajes</td>\n</tr>\n<tr>\n<td>Salas VIP aeropuerto</td>\n<td>—</td>\n<td>—</td>\n<td>4 accesos/año</td>\n<td>Ilimitado + 1 invitado</td>\n</tr>\n<tr>\n<td>Seguro de viaje</td>\n<td>—</td>\n<td>—</td>\n<td>Incluido</td>\n<td>Incluido (cobertura ampliada)</td>\n</tr>\n<tr>\n<td>Otros beneficios</td>\n<td>Cuotas sin intereses en comercios aliados</td>\n<td>Descuentos en cines y delivery</td>\n<td>Concierge 24/7</td>\n<td>Asesor dedicado y eventos exclusivos</td>\n</tr>\n</table>\n\nExoneración de membresía: consumos de / 1,500(Or), S/3,000(Platinum) /6,000(Black) en el año membresía.",
+        "metadata": {
+          "titulo": "Tarjeta de Crédito - Variantes de plástico",
+          "paginas": "1",
+          "numero_chunk": 3,
+          "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+          "tipo_documento": "Ficha de producto",
+          "categoria": "Tarjeta de Crédito",
+          "sintetico": true
+        },
+        "distancia": 0.47333860397338867
+      },
+      {
+        "id": "bca-tc-06",
+        "text": "Tarjeta de Crédito - ¿Qué variante ofrecer? (guía para el asesor)\n\n### ¿Qué variante ofrecer? (guía para el asesor)\n\n· Clásica: primera tarjeta, jóvenes profesionales, clientes que buscan cero membresía.\n\n· Oro: gasto frecuente en supermercado y entretenimiento.\n\n· Platinum: clientes que viajan 1-2 veces al año y gastan en grifos y supermercados.\n\n· Black: alto ingreso, viajero frecuente, valora atención personalizada.\n\n· Si el cliente ya tiene una oferta de tarjeta en su perfil, priorizar la variante y línea indicadas en la oferta.",
+        "metadata": {
+          "tipo_documento": "Ficha de producto",
+          "categoria": "Tarjeta de Crédito",
+          "paginas": "1",
+          "sintetico": true,
+          "titulo": "Tarjeta de Crédito - ¿Qué variante ofrecer? (guía para el asesor)",
+          "numero_chunk": 6,
+          "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf"
+        },
+        "distancia": 0.6123672127723694
+      },
+      {
+        "id": "bca-tc-05",
+        "text": "Tarjeta de Crédito - Requisitos\n\n### Requisitos\n\n· Persona natural de 21 a 75 años, peruana o extranjera residente con documento vigente.\n\n· Ingreso mínimo según variante. Dependiente: últimas 2 boletas o cliente con abono de sueldo en BancAnalytics.\nIndependiente: últimas 3 declaraciones o recibos por honorarios.\n\n· Buena calificación en centrales de riesgo (Normal en la SBS) y evaluación crediticia aprobada.",
+        "metadata": {
+          "categoria": "Tarjeta de Crédito",
+          "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+          "tipo_documento": "Ficha de producto",
+          "sintetico": true,
+          "titulo": "Tarjeta de Crédito - Requisitos",
+          "paginas": "1",
+          "numero_chunk": 5
+        },
+        "distancia": 0.6193172335624695
+      }
+    ],
+    "respuesta": "ALCANCE: EN_ALCANCE\n\n### 1) Resumen de la consulta\nEl asesor consulta el ingreso mensual mínimo para acceder a la Tarjeta de Crédito Platinum.\n\n### 2) Respuesta para el asesor\nPara acceder al plástico **Platinum**, se requiere un ingreso mínimo mensual de **S/ 6,000**, sujeto a evaluación crediticia y demás requisitos aplicables.\n\n### 3) Mensaje sugerido para el cliente\n“Para solicitar la Tarjeta de Crédito Platinum, debes acreditar un ingreso mínimo mensual de S/ 6,000. La aprobación está sujeta a evaluación crediticia y al cumplimiento de los requisitos del banco.”\n\n### 4) Oportunidades de oferta\nNinguna.\n\n### 5) Fuentes\n- [bca-tc-03 | 02_BancAnalytics_Tarjeta_de_Credito.pdf | pág. 1]\n- [bca-tc-05 | 02_BancAnalytics_Tarjeta_de_Credito.pdf | pág. 1]",
+    "memoria": {
+      "almacenados": 6,
+      "excluidos": 0,
+      "resumenes": 0
+    },
+    "evaluacion": "correcto",
+    "justificacion": "Cumple todas las comprobaciones explícitas del caso.",
+    "comprobaciones": {
+      "alcance": true,
+      "chunk_correcto_recuperado": true,
+      "cita_id": true,
+      "cita_pdf": true,
+      "dato_esperado": true
+    },
+    "metodo_evaluacion": "Reglas explícitas; respuesta y fuentes disponibles para revisión humana."
+  },
+  {
+    "id": "RAG-03",
+    "tipo": "Información en otro chunk",
+    "pregunta": "¿En qué horario atienden las agencias de lunes a viernes?",
+    "filtro": null,
+    "chunk_esperado": "bca-inst-03",
+    "datos": [
+      "9:00",
+      "18:00"
+    ],
+    "esperado": "Lunes a viernes de 9:00 a 18:00, citando canales de atención.",
+    "fragmentos": [
+      {
+        "id": "bca-inst-03",
+        "text": "Información institucional - Canales de atención\n\n## Canales de atención\n\n\n<table>\n<tr>\n<th>Canal</th>\n<th>Horario</th>\n<th>Para qué usarlo</th>\n</tr>\n<tr>\n<td>App BancAnalytics</td>\n<td>24/7</td>\n<td>Saldos, pagos, transferencias, bloqueo de tarjetas, ofertas pre-aprobadas</td>\n</tr>\n<tr>\n<td>Banca por Internet</td>\n<td>24/7</td>\n<td>Operaciones, estados de cuenta, constancias</td>\n</tr>\n<tr>\n<td>Banca Telefónica (01) 600-1234</td>\n<td>24/7 (asesor: lun-sáb 8:00-20:00)</td>\n<td>Consultas, bloqueos, reclamos</td>\n</tr>\n<tr>\n<td>WhatsApp +51 999 600 123</td>\n<td>Lun-sáb 8:00-20:00</td>\n<td>Consultas generales y seguimiento de solicitudes</td>\n</tr>\n<tr>\n<td>Agencias</td>\n<td>Lun-vie 9:00-18:00 · Sáb 9:00-13:00</td>\n<td>Apertura de productos, desembolsos, trámites</td>\n</tr>\n<tr>\n<td>Agentes BancAnalytics</td>\n<td>Según establecimiento</td>\n<td>Depósitos, retiros y pagos de cuotas</td>\n</tr>\n</table>",
+        "metadata": {
+          "sintetico": true,
+          "numero_chunk": 3,
+          "tipo_documento": "Información institucional",
+          "titulo": "Información institucional - Canales de atención",
+          "categoria": "Institucional",
+          "fuente": "01_BancAnalytics_Informacion_Institucional.pdf",
+          "paginas": "1"
+        },
+        "distancia": 0.47989189624786377
+      },
+      {
+        "id": "bca-inst-05",
+        "text": "Información institucional - Reclamos y defensa del cliente\n\n### Reclamos y defensa del cliente\n\n· Libro de Reclamaciones virtual en la web y físico en todas las agencias.\n\n· Plazo de respuesta: hasta 15 días hábiles, ampliable según la normativa vigente (el asesor debe informar el plazo aplicable\nal registrar el caso).\n\n· Si el cliente no está conforme, puede acudir a la SBS, Indecopi o la Defensoría del Cliente Financiero.\n\n· Bloqueo inmediato de tarjetas por pérdida o robo: App o (01) 600-1234, 24/7.",
+        "metadata": {
+          "numero_chunk": 5,
+          "titulo": "Información institucional - Reclamos y defensa del cliente",
+          "categoria": "Institucional",
+          "fuente": "01_BancAnalytics_Informacion_Institucional.pdf",
+          "paginas": "1",
+          "sintetico": true,
+          "tipo_documento": "Información institucional"
+        },
+        "distancia": 0.5165132284164429
+      },
+      {
+        "id": "bca-inst-07",
+        "text": "Información institucional - Preguntas frecuentes de clientes\n\n### Preguntas frecuentes de clientes\n\n\n#### ¿BancAnalytics es un banco seguro?\n\nSí. Está supervisado por la SBS y es miembro del Fondo de Seguro de Depósitos.\n\n¿Cómo sé si una llamada es realmente del banco?\n\nAnte la duda, el cliente debe colgar y llamar al (01) 600-1234. Nunca compartir claves.\n\n¿Dónde encuentro la agencia más cercana?\n\nEn la App, sección \"Agencias y agentes\", o en www.bancanalytics.pe/ubicanos (ficticia).\n\n¿Cómo cambio mis datos personales?\n\nDesde la App con validación biométrica o en cualquier agencia con DNI vigente.",
+        "metadata": {
+          "paginas": "1,2",
+          "fuente": "01_BancAnalytics_Informacion_Institucional.pdf",
+          "categoria": "Institucional",
+          "numero_chunk": 7,
+          "sintetico": true,
+          "titulo": "Información institucional - Preguntas frecuentes de clientes",
+          "tipo_documento": "Información institucional"
+        },
+        "distancia": 0.5647679567337036
+      }
+    ],
+    "respuesta": "ALCANCE: EN_ALCANCE\n\n### 1) Resumen de la consulta\nEl asesor consulta el horario de atención de las agencias de lunes a viernes.\n\n### 2) Respuesta para el asesor\nLas agencias atienden de **lunes a viernes, de 9:00 a 18:00**.\n\n### 3) Mensaje sugerido para el cliente\n“Nuestras agencias atienden de lunes a viernes, de 9:00 a 18:00.”\n\n### 4) Oportunidades de oferta\nNinguna.\n\n### 5) Fuentes\n- [bca-inst-03 | 01_BancAnalytics_Informacion_Institucional.pdf | pág. 1]",
+    "memoria": {
+      "almacenados": 8,
+      "excluidos": 0,
+      "resumenes": 0
+    },
+    "evaluacion": "correcto",
+    "justificacion": "Cumple todas las comprobaciones explícitas del caso.",
+    "comprobaciones": {
+      "alcance": true,
+      "chunk_correcto_recuperado": true,
+      "cita_id": true,
+      "cita_pdf": true,
+      "dato_esperado": true
+    },
+    "metodo_evaluacion": "Reglas explícitas; respuesta y fuentes disponibles para revisión humana."
+  },
+  {
+    "id": "RAG-04",
+    "tipo": "Pregunta con filtro",
+    "pregunta": "¿Qué requisitos se deben cumplir para solicitar Crédito Efectivo?",
+    "filtro": "Crédito Efectivo",
+    "chunk_esperado": "bca-ce-06",
+    "datos": [
+      "dni"
+    ],
+    "esperado": "Requisitos de Crédito Efectivo; todos los chunks de esa categoría.",
+    "fragmentos": [
+      {
+        "id": "bca-ce-06",
+        "text": "Crédito Efectivo - Requisitos\n\n#### Requisitos\n\n· Persona natural de 21 a 70 años con DNI vigente (o carné de extranjería).\n\n· Ingreso neto mínimo de S/ 1,000 mensuales.\n\n· Dependiente: 3 meses de antigüedad laboral. Independiente: 12 meses de actividad.\n\n· Calificación Normal en la SBS y capacidad de pago verificada (cuotas totales ≤ 40% del ingreso neto, referencial).\n\n· Con oferta aprobada no se requiere documentación adicional.",
+        "metadata": {
+          "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+          "numero_chunk": 6,
+          "categoria": "Crédito Efectivo",
+          "titulo": "Crédito Efectivo - Requisitos",
+          "paginas": "1",
+          "sintetico": true,
+          "tipo_documento": "Ficha de producto"
+        },
+        "distancia": 0.24507135152816772
+      },
+      {
+        "id": "bca-ce-08",
+        "text": "Crédito Efectivo - Preguntas frecuentes\n\n#### Preguntas frecuentes\n\n¿Por qué mi oferta pre-aprobada cambio después de validar?\n\nPorque la validación con ingresos y centrales actualizadas puede ajustar el monto o la tasa.\n\n¿Puedo usar el crédito para pagar deudas de otros bancos?\n\nSí, es de libre disponibilidad. Para compra de deuda, el asesor puede ayudar a comparar la TCEA.\n\n¿Qué pasa si me atraso en una cuota?\n\nSe cobran intereses moratorios y se reporta a las centrales de riesgo. Se recomienda reprogramar a tiempo.\n\n¿Puedo tener más de un Crédito Efectivo?\nSí, sujeto a evaluación y capacidad de pago.",
+        "metadata": {
+          "titulo": "Crédito Efectivo - Preguntas frecuentes",
+          "categoria": "Crédito Efectivo",
+          "paginas": "1,2",
+          "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+          "sintetico": true,
+          "tipo_documento": "Ficha de producto",
+          "numero_chunk": 8
+        },
+        "distancia": 0.3009611964225769
+      },
+      {
+        "id": "bca-ce-04",
+        "text": "Crédito Efectivo - Condiciones\n\n## Condiciones\n\n\n<table>\n<tr>\n<th>Concepto</th>\n<th>Condición referencial</th>\n</tr>\n<tr>\n<td>Monto</td>\n<td>S/ 1,000 a S/ 150,000</td>\n</tr>\n<tr>\n<td>Plazo</td>\n<td>6 a 60 meses</td>\n</tr>\n<tr>\n<td>TEA</td>\n<td>De 14.9% a 59.9% según perfil de riesgo (la tasa exacta figura en la oferta)</td>\n</tr>\n<tr>\n<td>Seguro de desgravamen</td>\n<td>0.08% mensual sobre saldo (puede endosarse uno propio que cumpla requisitos)</td>\n</tr>\n<tr>\n<td>Periodo de gracia</td>\n<td>Hasta 60 días para la primera cuota (genera intereses)</td>\n</tr>\n<tr>\n<td>Comisiones</td>\n<td>Sin comisión de desembolso ni de evaluación</td>\n</tr>\n<tr>\n<td>Pagos anticipados</td>\n<td>Permitidos en cualquier momento sin penalidad, total o parcial (reducción de cuota o de plazo, a elección del cliente)</td>\n</tr>\n</table>",
+        "metadata": {
+          "paginas": "1",
+          "tipo_documento": "Ficha de producto",
+          "sintetico": true,
+          "categoria": "Crédito Efectivo",
+          "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+          "numero_chunk": 4,
+          "titulo": "Crédito Efectivo - Condiciones"
+        },
+        "distancia": 0.32925617694854736
+      }
+    ],
+    "respuesta": "ALCANCE: EN_ALCANCE\n\n### 1) Resumen de la consulta\nEl asesor consulta los requisitos para solicitar un Crédito Efectivo.\n\n### 2) Respuesta para el asesor\nLos requisitos son:\n\n- Ser persona natural de **21 a 70 años**.\n- Contar con **DNI vigente o carné de extranjería**.\n- Tener un ingreso neto mínimo de **S/ 1,000 mensuales**.\n- Dependientes: acreditar **3 meses de antigüedad laboral**.\n- Independientes: acreditar **12 meses de actividad**.\n- Contar con calificación **Normal en la SBS**.\n- Acreditar capacidad de pago, considerando cuotas totales de hasta el **40% del ingreso neto**, como referencia.\n- Si el cliente tiene una **oferta aprobada**, no se requiere documentación adicional, sujeto a las condiciones de validación correspondientes.\n\n### 3) Mensaje sugerido para el cliente\n“Para solicitar un Crédito Efectivo debes tener entre 21 y 70 años, DNI vigente o carné de extranjería, ingresos netos mínimos de S/ 1,000 y cumplir con la antigüedad laboral o de actividad requerida. También se valida tu calificación crediticia y capacidad de pago. La aprobación está sujeta a evaluación.”\n\n### 4) Oportunidades de oferta\nNinguna.\n\n### 5) Fuentes\n- [bca-ce-06 | 03_BancAnalytics_Credito_Efectivo.pdf | pág. 1]\n- [bca-ce-08 | 03_BancAnalytics_Credito_Efectivo.pdf | pág. 1,2]",
+    "memoria": {
+      "almacenados": 11,
+      "excluidos": 4,
+      "resumenes": 1
+    },
+    "evaluacion": "correcto",
+    "justificacion": "Cumple todas las comprobaciones explícitas del caso.",
+    "comprobaciones": {
+      "alcance": true,
+      "chunk_correcto_recuperado": true,
+      "cita_id": true,
+      "cita_pdf": true,
+      "dato_esperado": true,
+      "filtro_respetado": true
+    },
+    "metodo_evaluacion": "Reglas explícitas; respuesta y fuentes disponibles para revisión humana."
+  },
+  {
+    "id": "RAG-05",
+    "tipo": "Información ausente",
+    "pregunta": "¿Cuál es el monto exacto en dólares de la cobertura del seguro de viaje de Platinum?",
+    "filtro": "Tarjeta de Crédito",
+    "chunk_esperado": null,
+    "datos": [],
+    "esperado": "Reconocer que la cobertura exacta no está documentada, sin inventar una cifra.",
+    "fragmentos": [
+      {
+        "id": "bca-tc-03",
+        "text": "Tarjeta de Crédito - Variantes de plástico\n\n## Variantes de plástico\n\n\n<table>\n<tr>\n<th>Característica</th>\n<th>Clásica</th>\n<th>Oro</th>\n<th>Platinum</th>\n<th>Black</th>\n</tr>\n<tr>\n<td>Ingreso mínimo mensual</td>\n<td>S/ 1,200</td>\n<td>S/ 3,000</td>\n<td>S/ 6,000</td>\n<td>S/ 15,000</td>\n</tr>\n<tr>\n<td>Línea de crédito</td>\n<td>S/ 500 -6,000</td>\n<td>S/ 3,000 - 15,000</td>\n<td>S/ 10,000 - 40,000</td>\n<td>Desde S/ 40,000</td>\n</tr>\n<tr>\n<td>Membresía anual</td>\n<td>S/ 0</td>\n<td>S/ 120 (exonerable)</td>\n<td>S/ 240 (exonerable)</td>\n<td>S/ 600 (exonerable)</td>\n</tr>\n<tr>\n<td>TEA compras (ref.)</td>\n<td>79.9%</td>\n<td>69.9%</td>\n<td>54.9%</td>\n<td>39.9%</td>\n</tr>\n<tr>\n<td>Puntos por cada S/ 1</td>\n<td>1 pto. x S/ 5</td>\n<td>1 pto. x S/ 3</td>\n<td>1 pto. x S/ 2</td>\n<td>1 pto. x S/ 1</td>\n</tr>\n<tr>\n<td>Cashback</td>\n<td>—</td>\n<td>1% en supermercados</td>\n<td>2% supermercados y grifos</td>\n<td>3% en restaurantes y viajes</td>\n</tr>\n<tr>\n<td>Salas VIP aeropuerto</td>\n<td>—</td>\n<td>—</td>\n<td>4 accesos/año</td>\n<td>Ilimitado + 1 invitado</td>\n</tr>\n<tr>\n<td>Seguro de viaje</td>\n<td>—</td>\n<td>—</td>\n<td>Incluido</td>\n<td>Incluido (cobertura ampliada)</td>\n</tr>\n<tr>\n<td>Otros beneficios</td>\n<td>Cuotas sin intereses en comercios aliados</td>\n<td>Descuentos en cines y delivery</td>\n<td>Concierge 24/7</td>\n<td>Asesor dedicado y eventos exclusivos</td>\n</tr>\n</table>\n\nExoneración de membresía: consumos de / 1,500(Or), S/3,000(Platinum) /6,000(Black) en el año membresía.",
+        "metadata": {
+          "tipo_documento": "Ficha de producto",
+          "paginas": "1",
+          "titulo": "Tarjeta de Crédito - Variantes de plástico",
+          "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+          "sintetico": true,
+          "categoria": "Tarjeta de Crédito",
+          "numero_chunk": 3
+        },
+        "distancia": 0.5290632843971252
+      },
+      {
+        "id": "bca-tc-06",
+        "text": "Tarjeta de Crédito - ¿Qué variante ofrecer? (guía para el asesor)\n\n### ¿Qué variante ofrecer? (guía para el asesor)\n\n· Clásica: primera tarjeta, jóvenes profesionales, clientes que buscan cero membresía.\n\n· Oro: gasto frecuente en supermercado y entretenimiento.\n\n· Platinum: clientes que viajan 1-2 veces al año y gastan en grifos y supermercados.\n\n· Black: alto ingreso, viajero frecuente, valora atención personalizada.\n\n· Si el cliente ya tiene una oferta de tarjeta en su perfil, priorizar la variante y línea indicadas en la oferta.",
+        "metadata": {
+          "sintetico": true,
+          "paginas": "1",
+          "numero_chunk": 6,
+          "categoria": "Tarjeta de Crédito",
+          "titulo": "Tarjeta de Crédito - ¿Qué variante ofrecer? (guía para el asesor)",
+          "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+          "tipo_documento": "Ficha de producto"
+        },
+        "distancia": 0.6402327418327332
+      },
+      {
+        "id": "bca-tc-04",
+        "text": "Tarjeta de Crédito - Costos y condiciones generales\n\n## Costos y condiciones generales\n\n\n<table>\n<tr>\n<th>Concepto</th>\n<th>Condición referencial</th>\n</tr>\n<tr>\n<td>TEA disposición de efectivo</td>\n<td>94.9% (todas las variantes)</td>\n</tr>\n<tr>\n<td>TCEA</td>\n<td>Se informa en la cartilla según línea, plazo y variante; incluye intereses, comisiones y seguros</td>\n</tr>\n<tr>\n<td>Seguro de desgravamen</td>\n<td>0.35% mensual sobre deuda total</td>\n</tr>\n<tr>\n<td>Comisión por disposición de efectivo</td>\n<td>S/ 12 por operación en cajeros de terceros</td>\n</tr>\n<tr>\n<td>Fecha de facturación / pago</td>\n<td>El cliente elige: facturación 5, 15 o 25; pago ~20 días después</td>\n</tr>\n<tr>\n<td>Pago mínimo</td>\n<td>Intereses + comisiones + 1/36 del capital (referencial)</td>\n</tr>\n</table>",
+        "metadata": {
+          "titulo": "Tarjeta de Crédito - Costos y condiciones generales",
+          "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+          "numero_chunk": 4,
+          "paginas": "1",
+          "tipo_documento": "Ficha de producto",
+          "categoria": "Tarjeta de Crédito",
+          "sintetico": true
+        },
+        "distancia": 0.6864268779754639
+      }
+    ],
+    "respuesta": "ALCANCE: EN_ALCANCE\n\n### 1) Resumen de la consulta\nEl asesor consulta el monto exacto en dólares de la cobertura del seguro de viaje de la Tarjeta Platinum.\n\n### 2) Respuesta para el asesor\nEl contexto indica que el seguro de viaje está **incluido** en la Tarjeta Platinum, pero **no informa el monto de cobertura en dólares**. No dispongo de información suficiente para precisar esa cifra.\n\n### 3) Mensaje sugerido para el cliente\n“La Tarjeta Platinum incluye un seguro de viaje. El monto exacto de cobertura debe verificarse en las condiciones o documentación específica del seguro.”\n\n### 4) Oportunidades de oferta\nNinguna.\n\n### 5) Fuentes\n- [bca-tc-03 | 02_BancAnalytics_Tarjeta_de_Credito.pdf | pág. 1]",
+    "memoria": {
+      "almacenados": 14,
+      "excluidos": 7,
+      "resumenes": 2
+    },
+    "evaluacion": "correcto",
+    "justificacion": "Cumple todas las comprobaciones explícitas del caso.",
+    "comprobaciones": {
+      "alcance": true,
+      "reconoce_ausencia": true,
+      "sin_cobertura_inventada": true,
+      "filtro_respetado": true
+    },
+    "metodo_evaluacion": "Reglas explícitas; respuesta y fuentes disponibles para revisión humana."
+  }
+]

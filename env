@@ -8,3 +8,4 @@ FOUNDRY_RESOURCE_URL="https://afdscc01.services.ai.azure.com"
 DOCUMENT_INTELLIGENCE_ENDPOINT="https://docintellntt.cognitiveservices.azure.com/"
 CONTENT_SAFETY_ENDPOINT="https://contentsafetyex.cognitiveservices.azure.com/"
 BLOCKLIST_NAME="blk-bancanalytics-copiloto"
+FOUNDRY_EMBEDDING_DEPLOYMENT='text-embedding-3-small'

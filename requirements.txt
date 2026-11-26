@@ -6,3 +6,10 @@ azure-search-documents==12.1.0b2
 azure-ai-documentintelligence==1.0.2
 azure-ai-contentsafety==1.0.0
 reportlab==4.2.5
+agent-framework-core==1.26.0
+agent-framework-openai==1.18.2
+azure-identity==1.27.0
+chromadb==1.5.9
+ipykernel==7.4.0
+nbformat==5.10.4
+nbclient==0.11.0

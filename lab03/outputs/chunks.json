@@ -1,0 +1,288 @@
+[
+  {
+    "id": "bca-inst-01",
+    "text": "Información institucional - Conoce BancAnalytics\n\n# Conoce BancAnalytics\n\nInformación institucional para atención a clientes · Versión 1.0 · Noviembre 2026\n\n\n## ¿Quiénes somos?\n\nBancAnalytics S.A. es un banco peruano con sede en Lima, fundado en 2009. Ofrecemos productos de crédito, ahorro y\nmedios de pago para personas naturales, apoyados en analítica de datos para dar ofertas más simples, rápidas y\npersonalizadas.\n\nMisión: hacer que las finanzas de cada peruano sean más claras y accesibles. Visión: ser el banco digital más confiable del\nPerú al 2030.",
+    "metadata": {
+      "fuente": "01_BancAnalytics_Informacion_Institucional.pdf",
+      "titulo": "Información institucional - Conoce BancAnalytics",
+      "categoria": "Institucional",
+      "tipo_documento": "Información institucional",
+      "numero_chunk": 1,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-inst-02",
+    "text": "Información institucional - Datos clave\n\n## Datos clave\n\n\n<table>\n<tr>\n<th>Dato</th>\n<th>Detalle</th>\n</tr>\n<tr>\n<td>Razón social</td>\n<td>BancAnalytics S.A. - RUC 20600000001 (ficticio)</td>\n</tr>\n<tr>\n<td>Sede principal</td>\n<td>Av. Javier Prado Este 1234, San Isidro, Lima</td>\n</tr>\n<tr>\n<td>Supervisión</td>\n<td>Superintendencia de Banca, Seguros y AFP (SBS)</td>\n</tr>\n<tr>\n<td>Fondo de Seguro de Depósitos</td>\n<td>Miembro del FSD: los depósitos de personas naturales están protegidos hasta el monto máximo vigente que publica el FSD</td>\n</tr>\n<tr>\n<td>Presencia</td>\n<td>45 agencias en 12 regiones · 600 agentes corresponsales · 1.2 millones de clientes</td>\n</tr>\n<tr>\n<td>Clasificación de riesgo</td>\n<td>A (ficticia, referencial para la demo)</td>\n</tr>\n</table>",
+    "metadata": {
+      "fuente": "01_BancAnalytics_Informacion_Institucional.pdf",
+      "titulo": "Información institucional - Datos clave",
+      "categoria": "Institucional",
+      "tipo_documento": "Información institucional",
+      "numero_chunk": 2,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-inst-03",
+    "text": "Información institucional - Canales de atención\n\n## Canales de atención\n\n\n<table>\n<tr>\n<th>Canal</th>\n<th>Horario</th>\n<th>Para qué usarlo</th>\n</tr>\n<tr>\n<td>App BancAnalytics</td>\n<td>24/7</td>\n<td>Saldos, pagos, transferencias, bloqueo de tarjetas, ofertas pre-aprobadas</td>\n</tr>\n<tr>\n<td>Banca por Internet</td>\n<td>24/7</td>\n<td>Operaciones, estados de cuenta, constancias</td>\n</tr>\n<tr>\n<td>Banca Telefónica (01) 600-1234</td>\n<td>24/7 (asesor: lun-sáb 8:00-20:00)</td>\n<td>Consultas, bloqueos, reclamos</td>\n</tr>\n<tr>\n<td>WhatsApp +51 999 600 123</td>\n<td>Lun-sáb 8:00-20:00</td>\n<td>Consultas generales y seguimiento de solicitudes</td>\n</tr>\n<tr>\n<td>Agencias</td>\n<td>Lun-vie 9:00-18:00 · Sáb 9:00-13:00</td>\n<td>Apertura de productos, desembolsos, trámites</td>\n</tr>\n<tr>\n<td>Agentes BancAnalytics</td>\n<td>Según establecimiento</td>\n<td>Depósitos, retiros y pagos de cuotas</td>\n</tr>\n</table>",
+    "metadata": {
+      "fuente": "01_BancAnalytics_Informacion_Institucional.pdf",
+      "titulo": "Información institucional - Canales de atención",
+      "categoria": "Institucional",
+      "tipo_documento": "Información institucional",
+      "numero_chunk": 3,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-inst-04",
+    "text": "Información institucional - Productos para personas\n\n### Productos para personas\n\n· Tarjetas de crédito: Clásica, Oro, Platinum y Black (ver ficha de Tarjeta de Crédito).\n\n· Crédito Efectivo: préstamos de libre disponibilidad con ofertas pre-aprobadas y aprobadas (ver ficha de Crédito Efectivo).\n\n· Otros (fuera del alcance de la demo): cuentas de ahorro, depósitos a plazo y CTS.",
+    "metadata": {
+      "fuente": "01_BancAnalytics_Informacion_Institucional.pdf",
+      "titulo": "Información institucional - Productos para personas",
+      "categoria": "Institucional",
+      "tipo_documento": "Información institucional",
+      "numero_chunk": 4,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-inst-05",
+    "text": "Información institucional - Reclamos y defensa del cliente\n\n### Reclamos y defensa del cliente\n\n· Libro de Reclamaciones virtual en la web y físico en todas las agencias.\n\n· Plazo de respuesta: hasta 15 días hábiles, ampliable según la normativa vigente (el asesor debe informar el plazo aplicable\nal registrar el caso).\n\n· Si el cliente no está conforme, puede acudir a la SBS, Indecopi o la Defensoría del Cliente Financiero.\n\n· Bloqueo inmediato de tarjetas por pérdida o robo: App o (01) 600-1234, 24/7.",
+    "metadata": {
+      "fuente": "01_BancAnalytics_Informacion_Institucional.pdf",
+      "titulo": "Información institucional - Reclamos y defensa del cliente",
+      "categoria": "Institucional",
+      "tipo_documento": "Información institucional",
+      "numero_chunk": 5,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-inst-06",
+    "text": "Información institucional - Seguridad: lo que el banco nunca hará\n\n### Seguridad: lo que el banco nunca hará\n\n· Nunca pedirá claves, PIN, token ni códigos SMS por teléfono, correo, redes o WhatsApp.\n\n· Nunca enviará enlaces para \"actualizar datos\" o \"desbloquear\" cuentas.\n\n· Las ofertas pre-aprobadas solo se aceptan en la App, Banca por Internet o con un asesor identificado.",
+    "metadata": {
+      "fuente": "01_BancAnalytics_Informacion_Institucional.pdf",
+      "titulo": "Información institucional - Seguridad: lo que el banco nunca hará",
+      "categoria": "Institucional",
+      "tipo_documento": "Información institucional",
+      "numero_chunk": 6,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-inst-07",
+    "text": "Información institucional - Preguntas frecuentes de clientes\n\n### Preguntas frecuentes de clientes\n\n\n#### ¿BancAnalytics es un banco seguro?\n\nSí. Está supervisado por la SBS y es miembro del Fondo de Seguro de Depósitos.\n\n¿Cómo sé si una llamada es realmente del banco?\n\nAnte la duda, el cliente debe colgar y llamar al (01) 600-1234. Nunca compartir claves.\n\n¿Dónde encuentro la agencia más cercana?\n\nEn la App, sección \"Agencias y agentes\", o en www.bancanalytics.pe/ubicanos (ficticia).\n\n¿Cómo cambio mis datos personales?\n\nDesde la App con validación biométrica o en cualquier agencia con DNI vigente.",
+    "metadata": {
+      "fuente": "01_BancAnalytics_Informacion_Institucional.pdf",
+      "titulo": "Información institucional - Preguntas frecuentes de clientes",
+      "categoria": "Institucional",
+      "tipo_documento": "Información institucional",
+      "numero_chunk": 7,
+      "paginas": "1,2",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-tc-01",
+    "text": "Tarjeta de Crédito - Tarjeta de Crédito BancAnalytics\n\n# Tarjeta de Crédito BancAnalytics\n\nFicha de producto para asesores · Versión 1.0 · Noviembre 2026",
+    "metadata": {
+      "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+      "titulo": "Tarjeta de Crédito - Tarjeta de Crédito BancAnalytics",
+      "categoria": "Tarjeta de Crédito",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 1,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-tc-02",
+    "text": "Tarjeta de Crédito - Descripción\n\n## Descripción\n\nLínea de crédito revolvente para compras en Perú y el extranjero, compras por internet, disposición de efectivo y pagos en\ncuotas. Todas las tarjetas son contactless, con chip y tarjeta virtual inmediata en la App. Acumulan Puntos Analytics\ncanjeables por viajes, productos o abono en cuenta.",
+    "metadata": {
+      "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+      "titulo": "Tarjeta de Crédito - Descripción",
+      "categoria": "Tarjeta de Crédito",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 2,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-tc-03",
+    "text": "Tarjeta de Crédito - Variantes de plástico\n\n## Variantes de plástico\n\n\n<table>\n<tr>\n<th>Característica</th>\n<th>Clásica</th>\n<th>Oro</th>\n<th>Platinum</th>\n<th>Black</th>\n</tr>\n<tr>\n<td>Ingreso mínimo mensual</td>\n<td>S/ 1,200</td>\n<td>S/ 3,000</td>\n<td>S/ 6,000</td>\n<td>S/ 15,000</td>\n</tr>\n<tr>\n<td>Línea de crédito</td>\n<td>S/ 500 -6,000</td>\n<td>S/ 3,000 - 15,000</td>\n<td>S/ 10,000 - 40,000</td>\n<td>Desde S/ 40,000</td>\n</tr>\n<tr>\n<td>Membresía anual</td>\n<td>S/ 0</td>\n<td>S/ 120 (exonerable)</td>\n<td>S/ 240 (exonerable)</td>\n<td>S/ 600 (exonerable)</td>\n</tr>\n<tr>\n<td>TEA compras (ref.)</td>\n<td>79.9%</td>\n<td>69.9%</td>\n<td>54.9%</td>\n<td>39.9%</td>\n</tr>\n<tr>\n<td>Puntos por cada S/ 1</td>\n<td>1 pto. x S/ 5</td>\n<td>1 pto. x S/ 3</td>\n<td>1 pto. x S/ 2</td>\n<td>1 pto. x S/ 1</td>\n</tr>\n<tr>\n<td>Cashback</td>\n<td>—</td>\n<td>1% en supermercados</td>\n<td>2% supermercados y grifos</td>\n<td>3% en restaurantes y viajes</td>\n</tr>\n<tr>\n<td>Salas VIP aeropuerto</td>\n<td>—</td>\n<td>—</td>\n<td>4 accesos/año</td>\n<td>Ilimitado + 1 invitado</td>\n</tr>\n<tr>\n<td>Seguro de viaje</td>\n<td>—</td>\n<td>—</td>\n<td>Incluido</td>\n<td>Incluido (cobertura ampliada)</td>\n</tr>\n<tr>\n<td>Otros beneficios</td>\n<td>Cuotas sin intereses en comercios aliados</td>\n<td>Descuentos en cines y delivery</td>\n<td>Concierge 24/7</td>\n<td>Asesor dedicado y eventos exclusivos</td>\n</tr>\n</table>\n\nExoneración de membresía: consumos de / 1,500(Or), S/3,000(Platinum) /6,000(Black) en el año membresía.",
+    "metadata": {
+      "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+      "titulo": "Tarjeta de Crédito - Variantes de plástico",
+      "categoria": "Tarjeta de Crédito",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 3,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-tc-04",
+    "text": "Tarjeta de Crédito - Costos y condiciones generales\n\n## Costos y condiciones generales\n\n\n<table>\n<tr>\n<th>Concepto</th>\n<th>Condición referencial</th>\n</tr>\n<tr>\n<td>TEA disposición de efectivo</td>\n<td>94.9% (todas las variantes)</td>\n</tr>\n<tr>\n<td>TCEA</td>\n<td>Se informa en la cartilla según línea, plazo y variante; incluye intereses, comisiones y seguros</td>\n</tr>\n<tr>\n<td>Seguro de desgravamen</td>\n<td>0.35% mensual sobre deuda total</td>\n</tr>\n<tr>\n<td>Comisión por disposición de efectivo</td>\n<td>S/ 12 por operación en cajeros de terceros</td>\n</tr>\n<tr>\n<td>Fecha de facturación / pago</td>\n<td>El cliente elige: facturación 5, 15 o 25; pago ~20 días después</td>\n</tr>\n<tr>\n<td>Pago mínimo</td>\n<td>Intereses + comisiones + 1/36 del capital (referencial)</td>\n</tr>\n</table>",
+    "metadata": {
+      "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+      "titulo": "Tarjeta de Crédito - Costos y condiciones generales",
+      "categoria": "Tarjeta de Crédito",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 4,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-tc-05",
+    "text": "Tarjeta de Crédito - Requisitos\n\n### Requisitos\n\n· Persona natural de 21 a 75 años, peruana o extranjera residente con documento vigente.\n\n· Ingreso mínimo según variante. Dependiente: últimas 2 boletas o cliente con abono de sueldo en BancAnalytics.\nIndependiente: últimas 3 declaraciones o recibos por honorarios.\n\n· Buena calificación en centrales de riesgo (Normal en la SBS) y evaluación crediticia aprobada.",
+    "metadata": {
+      "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+      "titulo": "Tarjeta de Crédito - Requisitos",
+      "categoria": "Tarjeta de Crédito",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 5,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-tc-06",
+    "text": "Tarjeta de Crédito - ¿Qué variante ofrecer? (guía para el asesor)\n\n### ¿Qué variante ofrecer? (guía para el asesor)\n\n· Clásica: primera tarjeta, jóvenes profesionales, clientes que buscan cero membresía.\n\n· Oro: gasto frecuente en supermercado y entretenimiento.\n\n· Platinum: clientes que viajan 1-2 veces al año y gastan en grifos y supermercados.\n\n· Black: alto ingreso, viajero frecuente, valora atención personalizada.\n\n· Si el cliente ya tiene una oferta de tarjeta en su perfil, priorizar la variante y línea indicadas en la oferta.",
+    "metadata": {
+      "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+      "titulo": "Tarjeta de Crédito - ¿Qué variante ofrecer? (guía para el asesor)",
+      "categoria": "Tarjeta de Crédito",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 6,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-tc-07",
+    "text": "Tarjeta de Crédito - Preguntas frecuentes\n\n### Preguntas frecuentes\n\n¿Cuánto tarda la aprobación?\n\nCon oferta vigente, inmediata en la App. Sin oferta, hasta 48 horas hábiles tras entregar documentos.\n\n¿Puedo usar la tarjeta antes de recibir el plástico?\n\nSí, la tarjeta virtual se activa en la App al aprobarse la solicitud.\n\n¿Puedo cambiar de variante?\n\nSí, sujeto a evaluación. El cambio a una variante superior requiere cumplir el ingreso mínimo.\n\n¿Los Puntos Analytics vencen?\nVencen a los 36 meses de acumulados. Se pierden si la tarjeta se cancela con puntos sin canjear.\n\n¿Cómo cancelo mi tarjeta?\nPor la App, Banca Telefónica o en agencia. Se debe pagar la deuda total; el banco entrega constancia de no adeudo.",
+    "metadata": {
+      "fuente": "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+      "titulo": "Tarjeta de Crédito - Preguntas frecuentes",
+      "categoria": "Tarjeta de Crédito",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 7,
+      "paginas": "1,2",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-ce-01",
+    "text": "Crédito Efectivo - Crédito Efectivo BancAnalytics\n\n# Crédito Efectivo BancAnalytics\n\nFicha de producto para asesores · Versión 1.0 · Noviembre 2026",
+    "metadata": {
+      "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+      "titulo": "Crédito Efectivo - Crédito Efectivo BancAnalytics",
+      "categoria": "Crédito Efectivo",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 1,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-ce-02",
+    "text": "Crédito Efectivo - Descripción\n\n## Descripción\n\nPréstamo personal de libre disponibilidad en soles, con cuotas fijas mensuales. El dinero se abona en la cuenta de ahorros\nBancAnalytics del cliente (se abre gratis si no tiene una).",
+    "metadata": {
+      "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+      "titulo": "Crédito Efectivo - Descripción",
+      "categoria": "Crédito Efectivo",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 2,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-ce-03",
+    "text": "Crédito Efectivo - Tipos de oferta\n\n## Tipos de oferta\n\n\n<table>\n<tr>\n<th></th>\n<th>Oferta pre-aprobada</th>\n<th>Oferta aprobada</th>\n</tr>\n<tr>\n<td>Qué es</td>\n<td>Monto y tasa calculados por el banco con información interna y de centrales de riesgo. Es una invitación sujeta a validación final.</td>\n<td>Oferta firme: la evaluación ya se completó (incluida validación de ingresos).</td>\n</tr>\n<tr>\n<td>Validación pendiente</td>\n<td>Identidad, ingresos actualizados y que la situación crediticia no haya cambiado.</td>\n<td>Solo identidad y aceptación de condiciones.</td>\n</tr>\n<tr>\n<td>Tiempo de desembolso</td>\n<td>Hasta 24 horas tras la validación.</td>\n<td>Inmediato (App) o el mismo día (agencia).</td>\n</tr>\n<tr>\n<td>Vigencia</td>\n<td>30 días calendario.</td>\n<td>15 días calendario.</td>\n</tr>\n<tr>\n<td>¿Puede cambiar el monto?</td>\n<td>Sí, puede reducirse o ajustarse tras la validación.</td>\n<td>No sube; el cliente puede pedir un monto menor.</td>\n</tr>\n<tr>\n<td>Dónde se ve</td>\n<td>App, Banca por Internet y perfil del cliente en el copiloto.</td>\n<td>Igual que la pre-aprobada.</td>\n</tr>\n</table>\n\nPara el asesor: nunca presentar una oferta pre-aprobada como aprobada. Usar \"tienes una oferta pre-aprobada de hasta S/ X, sujeta a validación\".",
+    "metadata": {
+      "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+      "titulo": "Crédito Efectivo - Tipos de oferta",
+      "categoria": "Crédito Efectivo",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 3,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-ce-04",
+    "text": "Crédito Efectivo - Condiciones\n\n## Condiciones\n\n\n<table>\n<tr>\n<th>Concepto</th>\n<th>Condición referencial</th>\n</tr>\n<tr>\n<td>Monto</td>\n<td>S/ 1,000 a S/ 150,000</td>\n</tr>\n<tr>\n<td>Plazo</td>\n<td>6 a 60 meses</td>\n</tr>\n<tr>\n<td>TEA</td>\n<td>De 14.9% a 59.9% según perfil de riesgo (la tasa exacta figura en la oferta)</td>\n</tr>\n<tr>\n<td>Seguro de desgravamen</td>\n<td>0.08% mensual sobre saldo (puede endosarse uno propio que cumpla requisitos)</td>\n</tr>\n<tr>\n<td>Periodo de gracia</td>\n<td>Hasta 60 días para la primera cuota (genera intereses)</td>\n</tr>\n<tr>\n<td>Comisiones</td>\n<td>Sin comisión de desembolso ni de evaluación</td>\n</tr>\n<tr>\n<td>Pagos anticipados</td>\n<td>Permitidos en cualquier momento sin penalidad, total o parcial (reducción de cuota o de plazo, a elección del cliente)</td>\n</tr>\n</table>",
+    "metadata": {
+      "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+      "titulo": "Crédito Efectivo - Condiciones",
+      "categoria": "Crédito Efectivo",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 4,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-ce-05",
+    "text": "Crédito Efectivo - Ejemplo referencial\n\n### Ejemplo referencial\n\nMonto S/ 10,000 · Plazo 24 meses · TEA 24.9% · desgravamen incluido -> cuota aproximada de S/ 530 mensuales. TCEA\nreferencial 26.8%. El monto final depende de la oferta y la fecha de pago.",
+    "metadata": {
+      "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+      "titulo": "Crédito Efectivo - Ejemplo referencial",
+      "categoria": "Crédito Efectivo",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 5,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-ce-06",
+    "text": "Crédito Efectivo - Requisitos\n\n#### Requisitos\n\n· Persona natural de 21 a 70 años con DNI vigente (o carné de extranjería).\n\n· Ingreso neto mínimo de S/ 1,000 mensuales.\n\n· Dependiente: 3 meses de antigüedad laboral. Independiente: 12 meses de actividad.\n\n· Calificación Normal en la SBS y capacidad de pago verificada (cuotas totales ≤ 40% del ingreso neto, referencial).\n\n· Con oferta aprobada no se requiere documentación adicional.",
+    "metadata": {
+      "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+      "titulo": "Crédito Efectivo - Requisitos",
+      "categoria": "Crédito Efectivo",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 6,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-ce-07",
+    "text": "Crédito Efectivo - Proceso de venta con el copiloto\n\n#### Proceso de venta con el copiloto\n\n· 1. Revisar el perfil: ¿ tiene oferta pre-aprobada o aprobada? Ver monto, tasa y vigencia.\n\n· 2. Indagar la necesidad del cliente (consolidar deudas, remodelación, estudios, etc.).\n\n. 3. Simular monto y plazo; mostrar cuota, TEA y TCEA.\n\n· 4. Validar identidad (y documentos si es pre-aprobada).\n\n· 5. Entregar cartilla y contrato; el cliente acepta con firma digital.\n\n· 6. Desembolso en cuenta y confirmación por correo/SMS.",
+    "metadata": {
+      "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+      "titulo": "Crédito Efectivo - Proceso de venta con el copiloto",
+      "categoria": "Crédito Efectivo",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 7,
+      "paginas": "1",
+      "sintetico": true
+    }
+  },
+  {
+    "id": "bca-ce-08",
+    "text": "Crédito Efectivo - Preguntas frecuentes\n\n#### Preguntas frecuentes\n\n¿Por qué mi oferta pre-aprobada cambio después de validar?\n\nPorque la validación con ingresos y centrales actualizadas puede ajustar el monto o la tasa.\n\n¿Puedo usar el crédito para pagar deudas de otros bancos?\n\nSí, es de libre disponibilidad. Para compra de deuda, el asesor puede ayudar a comparar la TCEA.\n\n¿Qué pasa si me atraso en una cuota?\n\nSe cobran intereses moratorios y se reporta a las centrales de riesgo. Se recomienda reprogramar a tiempo.\n\n¿Puedo tener más de un Crédito Efectivo?\nSí, sujeto a evaluación y capacidad de pago.",
+    "metadata": {
+      "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+      "titulo": "Crédito Efectivo - Preguntas frecuentes",
+      "categoria": "Crédito Efectivo",
+      "tipo_documento": "Ficha de producto",
+      "numero_chunk": 8,
+      "paginas": "1,2",
+      "sintetico": true
+    }
+  }
+]

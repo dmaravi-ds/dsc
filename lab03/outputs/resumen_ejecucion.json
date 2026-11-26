@@ -1,0 +1,35 @@
+{
+  "fecha_utc": "2026-11-26T03:50:17.909542+00:00",
+  "estado": "ejecutado_en_azure",
+  "llm": "gpt-5.6-luna",
+  "embeddings": "text-embedding-3-small",
+  "autenticacion": "DefaultAzureCredential / Microsoft Entra ID; sin API keys",
+  "pruebas_rag": {
+    "RAG-01": "correcto",
+    "RAG-02": "correcto",
+    "RAG-03": "correcto",
+    "RAG-04": "correcto",
+    "RAG-05": "correcto"
+  },
+  "memoria_y_compactacion": {
+    "ingreso": true,
+    "monto": true,
+    "tipo_preaprobada": true,
+    "tea": true,
+    "vigencia": true,
+    "compactacion_real": true
+  },
+  "alcance": {
+    "fuera_de_alcance": true,
+    "otra_especialidad": true
+  },
+  "misma_sesion": true,
+  "criterio_aprobacion": "Comprobaciones explícitas; no sustituye revisión humana de evidencia.",
+  "versiones": {
+    "agent-framework-core": "1.26.0",
+    "agent-framework-openai": "1.18.2",
+    "chromadb": "1.5.9",
+    "azure-identity": "1.27.0"
+  },
+  "comprobaciones_superadas": true
+}

@@ -1,0 +1,91 @@
+{
+  "pregunta": "¿Qué requisitos tiene Crédito Efectivo?",
+  "sin_filtro": [
+    {
+      "id": "bca-ce-06",
+      "text": "Crédito Efectivo - Requisitos\n\n#### Requisitos\n\n· Persona natural de 21 a 70 años con DNI vigente (o carné de extranjería).\n\n· Ingreso neto mínimo de S/ 1,000 mensuales.\n\n· Dependiente: 3 meses de antigüedad laboral. Independiente: 12 meses de actividad.\n\n· Calificación Normal en la SBS y capacidad de pago verificada (cuotas totales ≤ 40% del ingreso neto, referencial).\n\n· Con oferta aprobada no se requiere documentación adicional.",
+      "metadata": {
+        "numero_chunk": 6,
+        "titulo": "Crédito Efectivo - Requisitos",
+        "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+        "paginas": "1",
+        "sintetico": true,
+        "tipo_documento": "Ficha de producto",
+        "categoria": "Crédito Efectivo"
+      },
+      "distancia": 0.25593066215515137
+    },
+    {
+      "id": "bca-ce-08",
+      "text": "Crédito Efectivo - Preguntas frecuentes\n\n#### Preguntas frecuentes\n\n¿Por qué mi oferta pre-aprobada cambio después de validar?\n\nPorque la validación con ingresos y centrales actualizadas puede ajustar el monto o la tasa.\n\n¿Puedo usar el crédito para pagar deudas de otros bancos?\n\nSí, es de libre disponibilidad. Para compra de deuda, el asesor puede ayudar a comparar la TCEA.\n\n¿Qué pasa si me atraso en una cuota?\n\nSe cobran intereses moratorios y se reporta a las centrales de riesgo. Se recomienda reprogramar a tiempo.\n\n¿Puedo tener más de un Crédito Efectivo?\nSí, sujeto a evaluación y capacidad de pago.",
+      "metadata": {
+        "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+        "numero_chunk": 8,
+        "tipo_documento": "Ficha de producto",
+        "titulo": "Crédito Efectivo - Preguntas frecuentes",
+        "categoria": "Crédito Efectivo",
+        "paginas": "1,2",
+        "sintetico": true
+      },
+      "distancia": 0.2928072214126587
+    },
+    {
+      "id": "bca-ce-04",
+      "text": "Crédito Efectivo - Condiciones\n\n## Condiciones\n\n\n<table>\n<tr>\n<th>Concepto</th>\n<th>Condición referencial</th>\n</tr>\n<tr>\n<td>Monto</td>\n<td>S/ 1,000 a S/ 150,000</td>\n</tr>\n<tr>\n<td>Plazo</td>\n<td>6 a 60 meses</td>\n</tr>\n<tr>\n<td>TEA</td>\n<td>De 14.9% a 59.9% según perfil de riesgo (la tasa exacta figura en la oferta)</td>\n</tr>\n<tr>\n<td>Seguro de desgravamen</td>\n<td>0.08% mensual sobre saldo (puede endosarse uno propio que cumpla requisitos)</td>\n</tr>\n<tr>\n<td>Periodo de gracia</td>\n<td>Hasta 60 días para la primera cuota (genera intereses)</td>\n</tr>\n<tr>\n<td>Comisiones</td>\n<td>Sin comisión de desembolso ni de evaluación</td>\n</tr>\n<tr>\n<td>Pagos anticipados</td>\n<td>Permitidos en cualquier momento sin penalidad, total o parcial (reducción de cuota o de plazo, a elección del cliente)</td>\n</tr>\n</table>",
+      "metadata": {
+        "tipo_documento": "Ficha de producto",
+        "sintetico": true,
+        "categoria": "Crédito Efectivo",
+        "titulo": "Crédito Efectivo - Condiciones",
+        "numero_chunk": 4,
+        "paginas": "1",
+        "fuente": "03_BancAnalytics_Credito_Efectivo.pdf"
+      },
+      "distancia": 0.30128300189971924
+    }
+  ],
+  "con_filtro": [
+    {
+      "id": "bca-ce-06",
+      "text": "Crédito Efectivo - Requisitos\n\n#### Requisitos\n\n· Persona natural de 21 a 70 años con DNI vigente (o carné de extranjería).\n\n· Ingreso neto mínimo de S/ 1,000 mensuales.\n\n· Dependiente: 3 meses de antigüedad laboral. Independiente: 12 meses de actividad.\n\n· Calificación Normal en la SBS y capacidad de pago verificada (cuotas totales ≤ 40% del ingreso neto, referencial).\n\n· Con oferta aprobada no se requiere documentación adicional.",
+      "metadata": {
+        "titulo": "Crédito Efectivo - Requisitos",
+        "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+        "tipo_documento": "Ficha de producto",
+        "paginas": "1",
+        "categoria": "Crédito Efectivo",
+        "sintetico": true,
+        "numero_chunk": 6
+      },
+      "distancia": 0.25593066215515137
+    },
+    {
+      "id": "bca-ce-08",
+      "text": "Crédito Efectivo - Preguntas frecuentes\n\n#### Preguntas frecuentes\n\n¿Por qué mi oferta pre-aprobada cambio después de validar?\n\nPorque la validación con ingresos y centrales actualizadas puede ajustar el monto o la tasa.\n\n¿Puedo usar el crédito para pagar deudas de otros bancos?\n\nSí, es de libre disponibilidad. Para compra de deuda, el asesor puede ayudar a comparar la TCEA.\n\n¿Qué pasa si me atraso en una cuota?\n\nSe cobran intereses moratorios y se reporta a las centrales de riesgo. Se recomienda reprogramar a tiempo.\n\n¿Puedo tener más de un Crédito Efectivo?\nSí, sujeto a evaluación y capacidad de pago.",
+      "metadata": {
+        "categoria": "Crédito Efectivo",
+        "paginas": "1,2",
+        "tipo_documento": "Ficha de producto",
+        "sintetico": true,
+        "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+        "titulo": "Crédito Efectivo - Preguntas frecuentes",
+        "numero_chunk": 8
+      },
+      "distancia": 0.2928072214126587
+    },
+    {
+      "id": "bca-ce-04",
+      "text": "Crédito Efectivo - Condiciones\n\n## Condiciones\n\n\n<table>\n<tr>\n<th>Concepto</th>\n<th>Condición referencial</th>\n</tr>\n<tr>\n<td>Monto</td>\n<td>S/ 1,000 a S/ 150,000</td>\n</tr>\n<tr>\n<td>Plazo</td>\n<td>6 a 60 meses</td>\n</tr>\n<tr>\n<td>TEA</td>\n<td>De 14.9% a 59.9% según perfil de riesgo (la tasa exacta figura en la oferta)</td>\n</tr>\n<tr>\n<td>Seguro de desgravamen</td>\n<td>0.08% mensual sobre saldo (puede endosarse uno propio que cumpla requisitos)</td>\n</tr>\n<tr>\n<td>Periodo de gracia</td>\n<td>Hasta 60 días para la primera cuota (genera intereses)</td>\n</tr>\n<tr>\n<td>Comisiones</td>\n<td>Sin comisión de desembolso ni de evaluación</td>\n</tr>\n<tr>\n<td>Pagos anticipados</td>\n<td>Permitidos en cualquier momento sin penalidad, total o parcial (reducción de cuota o de plazo, a elección del cliente)</td>\n</tr>\n</table>",
+      "metadata": {
+        "sintetico": true,
+        "numero_chunk": 4,
+        "categoria": "Crédito Efectivo",
+        "fuente": "03_BancAnalytics_Credito_Efectivo.pdf",
+        "titulo": "Crédito Efectivo - Condiciones",
+        "paginas": "1",
+        "tipo_documento": "Ficha de producto"
+      },
+      "distancia": 0.30128300189971924
+    }
+  ]
+}

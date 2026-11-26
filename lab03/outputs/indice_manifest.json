@@ -1,0 +1,19 @@
+{
+  "coleccion": "bancanalytics_18144c1020684ea8a4d2",
+  "huella": "18144c1020684ea8a4d2245bdc118dd289a13faa2143177bf4e7bade44a20d82",
+  "modelo_embeddings": "text-embedding-3-small",
+  "dimensiones": 1536,
+  "chunks": 22,
+  "documentos": [
+    "01_BancAnalytics_Informacion_Institucional.pdf",
+    "02_BancAnalytics_Tarjeta_de_Credito.pdf",
+    "03_BancAnalytics_Credito_Efectivo.pdf"
+  ],
+  "categorias": [
+    "Crédito Efectivo",
+    "Institucional",
+    "Tarjeta de Crédito"
+  ],
+  "estrategia": "secciones-v1-max1800-sin-solapamiento",
+  "metrica": "cosine"
+}
